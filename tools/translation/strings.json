@@ -1,0 +1,6174 @@
+{
+ "count": 1380,
+ "strings": [
+  "FAIL: $*",
+  "Please run as root: sudo bash $0",
+  "Auto-detects: Kali / Debian / Ubuntu / Parrot / Mint / Pop!_OS /",
+  "Best support: Kali / Debian / Ubuntu (apt-based)",
+  "See $LOGFILE for details.",
+  "20+ online public transport maps by country",
+  "21-day Linux-for-OSINT course (free)",
+  "21-day Python-for-OSINT course (free)",
+  "30+ phishing templates",
+  "32+ phishing template builder for credential capture (lab-only)",
+  "3D interactive world map",
+  "500+ challenges and 100+ virtual labs",
+  "AD attack-path graph analysis",
+  "ADB-based phone exploitation",
+  "AI browser agent for OSINT",
+  "AI content detection",
+  "AI face analysis (age, gender, emotion)",
+  "AI image detection",
+  "AI search for developers",
+  "AI search with cited sources",
+  "AI with Bing search integration",
+  "AI-based fake image detection",
+  "AI-enhanced Burp Suite extension",
+  "AI-powered cyber threat intelligence",
+  "AI-powered image geolocation",
+  "AI-powered photo geolocation predictor",
+  "AI-powered reverse face search",
+  "AI-powered search query generator for Google, Bing, DuckDuckGo",
+  "API access to breach data (premium)",
+  "Access webcam/mic/location (SE)",
+  "Account-takeover prevention + identity exposure data",
+  "Active Directory Certificate Services enumeration and abuse",
+  "Advanced XSS scanner with crawler and payload generator",
+  "Advanced cross-platform tool to detect/exploit SQLi",
+  "Advanced password recovery (GPU-accelerated)",
+  "Advanced phishing tool",
+  "Advanced phone number scanner",
+  "Advanced satellite imagery",
+  "Adversary group identification used by SOCs/ISACs",
+  "Adversary tactics, techniques, and procedures knowledge base",
+  "All-in-one website analysis",
+  "Amnesic live OS (no trace)",
+  "Analyze suspicious .eml files",
+  "Android APK decompiler (GUI)",
+  "Android APK decompiler/rebuilder",
+  "Android remote access tool",
+  "Anonymize all OS traffic via Tor (Linux)",
+  "Anonymous OS via Tor (VM-based)",
+  "Anonymous SMS sending",
+  "Anonymous file sharing via Tor",
+  "Anti-phishing community — verified phishing URLs",
+  "Append lines from stdin to a file only if not already there",
+  "Async Instagram downloader for profiles, posts, reels, stories, highlights, hashtags, and comments",
+  "Automated NoSQL database enumeration and exploitation",
+  "Automated SQL injection tool",
+  "Automated SSRF detection and exploitation framework",
+  "Automated Wi-Fi auditing tool",
+  "Automated digital image forensics",
+  "B2B phone/email finder — 1200 free credits/yr",
+  "BSSID/Wi-Fi MAC to coordinates lookup",
+  "Background check aggregator (BeenVerified family)",
+  "Bank card BIN lookup",
+  "Beginner-friendly cybersecurity training platform",
+  "Beginner-friendly hacking learning resources",
+  "Bellingcat-curated tools and methodology guide",
+  "Best for reasoning & analysis",
+  "Best reverse image search for faces/places",
+  "Binance Smart Chain explorer — same UX as Etherscan",
+  "Bitcoin address investigator",
+  "Bitcoin explorer",
+  "Bitcoin transaction graph explorer with clustering",
+  "Blockchain data APIs for on-chain investigation",
+  "Boolean search builder for OSINT investigators",
+  "Brand protection + dark web monitoring (now ReliaQuest GreyMatter DRP)",
+  "Breach data search engine",
+  "Breach exposure check",
+  "Breach notification service",
+  "Breach search engine",
+  "Browser extension for OSINT — extract IoCs from highlighted text",
+  "Browser-based satellite/streetview geolocation training & investigation",
+  "Bug bounty and offensive security YouTube content",
+  "Business risk intel from criminal forums and dark web",
+  "C# data collector for BloodHound",
+  "C# toolset for raw Kerberos interaction and abuse",
+  "CLI email header parser + OSINT",
+  "Calendar of upcoming and past CTF events",
+  "Catalog of malicious file extensions, risks, OS-level mitigations",
+  "Centralized server for Velociraptor agents",
+  "Certificate transparency search",
+  "Change/spoof MAC address",
+  "Check domain + username on popular social media",
+  "Check domain and username across many platforms",
+  "Check email/phone in breaches",
+  "Check email/username availability",
+  "Check if a phone number is in the 533M Facebook breach",
+  "Check if your data has been leaked by ransomware groups",
+  "Check phone registrations on sites",
+  "Check username across multiple platforms",
+  "Check username availability across social media",
+  "Check website trustworthiness scores",
+  "Chinese internet asset search engine",
+  "Classic by Jon Erickson — low-level attack fundamentals",
+  "Classic leaked password list",
+  "Classic password cracker",
+  "Cloud-native runtime security",
+  "Collaborative YARA engine for open threat intel via file pattern matching",
+  "Command injection exploiter",
+  "Command-line client for OpenCorporates API",
+  "Command-line interface for ZoomEye internet asset search",
+  "Command-line packet analyzer",
+  "Command-line tool for GreyNoise mass-scanner intel",
+  "Commercial satellite imagery",
+  "Community Edition of BloodHound — modernized stack",
+  "Community blog, podcast, and learning resources",
+  "Community-curated templates for Nuclei",
+  "Company/startup database",
+  "Comprehensive Active Directory attack reference",
+  "Computer vision library",
+  "Concise blue-team incident response reference",
+  "Concise red-team command reference",
+  "Consolidated database of sanctioned entities across 200+ sources",
+  "Contextual content-discovery for modern API endpoints",
+  "Convert Sigma rules to native SIEM queries",
+  "CrackMapExec maintained successor — AD network exploitation",
+  "Credentials recovery tool (post-exploit)",
+  "Cross-platform HTTP/2 post-exploitation server and agent in Go",
+  "Cross-platform subdomain enumerator with monitoring features",
+  "Cross-platform, post-exploit, multi-user red team framework",
+  "Crowdsourced + vetted-researcher pentesting platform",
+  "Crowdsourced security platform — bug bounty + pentesting",
+  "Crypto compliance and investigation platform",
+  "Crypto financial-crime detection and investigation",
+  "Curated directory of dark-web sites (mirror-dependent)",
+  "Curated list of IR tools and resources",
+  "Curated list of malware-analysis tools",
+  "Custom wordlist generator from website",
+  "Cyber adversary emulation platform",
+  "Cyber risk and attack-surface intelligence",
+  "Cyber skills platform with hands-on exercises",
+  "Cybercrime intelligence and dark-web monitoring",
+  "Cybersecurity YouTube — CTFs, malware, walkthroughs",
+  "DNS & domain intelligence",
+  "DNS lookup visualization",
+  "DNS reconnaissance & mapping",
+  "Damn Vulnerable Web Application — classic appsec lab",
+  "Dark web breach database (Tor)",
+  "Dark web search API (clearnet)",
+  "Dark web search engine",
+  "Dark web search with filtering",
+  "Dark-web search engine by Aleph Networks",
+  "Data analysis swiss army knife",
+  "Data breach lookup",
+  "Data breach search engine",
+  "Database of malicious URLs used for malware distribution",
+  "Deep automated malware analysis (free tier)",
+  "Deep people search engine",
+  "Defensive countermeasure knowledge graph",
+  "Deliberately insecure Java-based web app for training",
+  "Detect AI-generated images",
+  "Detect manipulated/AI-generated images",
+  "Detect secrets, credentials, and API keys in git repos",
+  "Digital footprint cleaner",
+  "Discord-based account-checker & breach lookup",
+  "Discover endpoints in JavaScript",
+  "Discover hidden, unlinked HTTP parameters in Burp",
+  "Disk encryption",
+  "Document publishing — sometimes leaks via search",
+  "Domain knock — security testing via DNS",
+  "Domain/IP/file analysis",
+  "Drop-in replacement for nmap powered by shodan.io",
+  "Dump/scrape company employees from LinkedIn API",
+  "Dynamic infra framework for parallel cloud-based recon",
+  "Dynamic instrumentation toolkit",
+  "Easily turn single-threaded CLI apps into multi-threaded jobs",
+  "Elasticsearch + Logstash + Kibana — log analytics",
+  "Email & domain reconnaissance",
+  "Email OSINT & breach hunting",
+  "Email OSINT gathering",
+  "Email alias service for OSINT",
+  "Email exposure analysis",
+  "Email finder & verifier",
+  "Email finder browser extension with company data",
+  "Email header analysis & DNS checks",
+  "Email header analysis CLI",
+  "Email header forensics",
+  "Email open tracking + geolocation",
+  "Email validation and deliverability service",
+  "Email validation tool",
+  "Email, domain & URL search",
+  "Email/username/phone breach search",
+  "Encrypted email",
+  "Encrypted messaging",
+  "Endpoint visibility and digital forensics — query-driven",
+  "Enterprise phishing simulation platform",
+  "Enterprise threat intel aggregation platform",
+  "Ethereum blockchain explorer",
+  "European bug-bounty platform",
+  "European bug-bounty platform with fast triage",
+  "European-based bug-bounty and VDP platform",
+  "Execution Flow",
+  "Exploit database (searchsploit)",
+  "Extended threat intel — attack surface + dark web + brand",
+  "External threat protection and intel (now part of Rapid7)",
+  "Extract features from disk images",
+  "Extract info from Telegram bots and channels",
+  "Face recognition search engine",
+  "Face search engine from photos",
+  "Face search in VK/OK social networks",
+  "Facebook keyword search",
+  "Fast CRLF-injection scanner in Go",
+  "Fast Go web crawler for endpoint and asset discovery",
+  "Fast Go web spider for crawling/audit",
+  "Fast Go-based port scanner from ProjectDiscovery",
+  "Fast Go-based web fuzzer — directory, parameter, vhost discovery",
+  "Fast HTTP toolkit / probing",
+  "Fast passive subdomain discovery",
+  "Fast recursive content discovery",
+  "Fast search for public SSL/TLS certificate records",
+  "Fast, intelligent XSS scanner",
+  "Fastest internet port scanner",
+  "Federated search across multiple web archives",
+  "Fetch URLs from AlienVault OTX, Wayback, Common Crawl, URLScan",
+  "Fetch all URLs the Wayback Machine knows about a domain",
+  "Fetch info on Google Docs/Sheets/Slides/Drawings without auth",
+  "Fetch many paths for many hosts without flooding",
+  "File carving (recover deleted files)",
+  "File carving tool",
+  "File data recovery — focuses on multimedia",
+  "Find JS files referenced from a URL — endpoints / API paths",
+  "Find anyone's email",
+  "Find deleted tweets",
+  "Find domains and subdomains related to a given domain",
+  "Find emails and phones for 300M+ professionals",
+  "Find people and address information",
+  "Find positions of nearby Telegram users via OSM",
+  "Find professional emails/phones for 700M+ profiles",
+  "Find sensitive data exposed via GitHub code search",
+  "Find social media accounts via email, username, phone",
+  "Firmware analysis & extraction",
+  "Forensic disk imaging tool by AccessData",
+  "Fox-IT framework for fast forensic image analysis",
+  "Free + paid crypto transaction tracing tool",
+  "Free + paid cybersecurity courses",
+  "Free CTF and learning platform built by CMU",
+  "Free HackerOne course library and CTF",
+  "Free OSINT automation cookbook",
+  "Free OSINT lookup for TikTok account country/language",
+  "Free US court opinion search",
+  "Free advanced malware analysis service by CrowdStrike",
+  "Free breach search",
+  "Free college-level cybersecurity education from ASU",
+  "Free coordinated-disclosure platform",
+  "Free crypto investigation platform — visualize transaction flows",
+  "Free downloadable vulnerable VMs for offline practice",
+  "Free email reputation API by Sublime Security",
+  "Free encrypted VPN",
+  "Free encyclopedia — start of every people/place investigation",
+  "Free genealogy search — addresses, phones, emails",
+  "Free infostealer-compromise check tools (domain/email/IP)",
+  "Free malware sample repository for researchers",
+  "Free nationwide directory of public-record lookups",
+  "Free online metadata extractor for any file",
+  "Free passive-DNS query tool",
+  "Free people finder",
+  "Free people search engine",
+  "Free public hashlookup for known software files",
+  "Free reverse phone lookup",
+  "Free social media search engine",
+  "Free social network search",
+  "Free username check on hundreds of sites",
+  "Free version of IDA disassembler/decompiler",
+  "Free wargames for learning offensive security from scratch",
+  "Free web monitoring",
+  "Free, world-class web security training (by Burp Suite team)",
+  "Freedom of Information Act portal",
+  "Full digital forensics platform",
+  "Full-suite domain recon — subdomain enum, port scan, vuln scan in one pipeline",
+  "GUI for radare2/rizin reverse-engineering",
+  "GUI-based Wi-Fi audit tool",
+  "Generate domain typos and check availability/registration",
+  "Generate usernames from a target's LinkedIn employees",
+  "Generates permutations, alterations and mutations of subdomains",
+  "Generic signature format for SIEM detections",
+  "Geolocation aggregator — pulls geotagged posts across networks",
+  "Geolocation by phishing — collects precise GPS via WebRTC + browser geolocation",
+  "Geolocation training game",
+  "GitHub OSINT reconnaissance",
+  "Global corporate & public records",
+  "Global corporate database",
+  "Global statistics on cyber threats by Shadowserver Foundation",
+  "Google AI with web search",
+  "Google CSE for finding public/private Telegram channels",
+  "Google image search",
+  "Google's document analysis AI",
+  "Graphic index of license plates by country",
+  "HLR phone number lookup",
+  "HTB writeups and pentesting writeups",
+  "HTTP DoS tool (authorized load testing)",
+  "HTTP parameter discovery suite",
+  "Hacking and security YouTube — deep technical content",
+  "Hands-on web-app pentesting training",
+  "High-level stage 0/1 C2 framework for handling sibling agents",
+  "High-perf network IDS / IPS / NSM",
+  "High-performance DNS stub resolver for bulk lookups",
+  "Historical DNS records lookup",
+  "Historical Reddit data — posts, comments, metadata",
+  "Historical tweet, follower, and trend export tool",
+  "Hunt across all abuse.ch malware platforms with one query",
+  "Hunt threats in Windows event logs — fast forensics",
+  "IP address data & geolocation",
+  "IP address geolocation",
+  "IP address reputation database",
+  "IP and Domain Reputation Center for real-time detection",
+  "IP geolocation API",
+  "IP geolocation database",
+  "IP grabber & URL shortener",
+  "IP logging URL shortener",
+  "IP registration database",
+  "Identify your compromised credentials before others do",
+  "Identity threat intel from breaches and dark web",
+  "Identity-resolution API and person enrichment",
+  "Image forensic analysis (ELA)",
+  "Image hosting — meme tracing and reverse search",
+  "Independent search engine that doesn't track users",
+  "Independent, transparent, ad-free search engine",
+  "Index of dorks for finding publicly exposed info",
+  "Index of dumped databases (educational)",
+  "Index of open Amazon S3 buckets — find exposed cloud data",
+  "Index/retrieval service for Reddit (incl. deleted content)",
+  "Indexed walkthroughs of HackTheBox machines (video)",
+  "Indian-origin bug-bounty + vulnerability disclosure platform",
+  "Industry-standard exploitation framework with 2000+ modules",
+  "Industry-standard pen testing framework",
+  "Infostealer intelligence & breach data",
+  "Instagram OSINT by phone/email",
+  "Instagram OSINT tool",
+  "Instagram data downloader",
+  "Intentionally vulnerable Linux VM for Metasploit practice",
+  "Intentionally-vulnerable web app for hands-on appsec training",
+  "Interactive online malware sandbox",
+  "Internet traffic patterns, attacks, technology trends",
+  "Internet-connected device search",
+  "Internet-wide scan search",
+  "Kroll Artifact Parser and Extractor — fast triage collection",
+  "LLMNR/NBT-NS/MDNS poisoner",
+  "Largest bug-bounty platform — public and private programs",
+  "Largest public database of cell-tower IDs",
+  "Leak search engine (15B+ accounts)",
+  "Legal Entity Identifier lookup",
+  "Library and CLI tools for forensic disk analysis",
+  "Library of small detection-test scripts mapped to MITRE ATT&CK",
+  "LinkedIn enumeration — generate username lists from LinkedIn profiles",
+  "Linux distro for threat hunting, monitoring, and log management",
+  "Live phishing URL feed",
+  "Live phishing intelligence feed and search",
+  "Look up Discord user info via ID",
+  "MITM attack suite",
+  "MITM framework (ARP, DNS, HTTP)",
+  "MSF payload creator",
+  "Major Chinese search engine — essential for China-focused OSINT",
+  "Malware sandbox analysis platform",
+  "Man-in-the-middle reverse proxy",
+  "Map LinkedIn endorsements/skills to draw out person relationships",
+  "Massive curated list of pentesting tools and resources",
+  "Massive wordlist collection",
+  "Memory forensics framework",
+  "Memory forensics tooling (legacy fork of Volatility)",
+  "Metadata extraction from documents",
+  "Michael Bazzell's resources, books, and search tools",
+  "Mobile Security Framework (static+dynamic)",
+  "Modern BGP toolkit for network reconnaissance",
+  "Modern Go-based web screenshot utility (Aquatone successor)",
+  "Modern fork of radare2 with cleaner API",
+  "Modern malware sandbox with kernel-level monitoring",
+  "Modern port scanner — finds open ports, then pipes to Nmap",
+  "Modern reverse engineering platform with API",
+  "Modern, intentionally insecure web app — covers OWASP Top 10",
+  "Modern, malleable post-exploitation C2 framework",
+  "Multi-engine file/URL/IP scanning by OPSWAT",
+  "Multi-engine reverse image (browser ext)",
+  "Multi-platform phishing tool",
+  "Multi-threaded network reconnaissance and enumeration framework",
+  "NASA fire/thermal hotspots",
+  "NSA's open-source software reverse engineering suite",
+  "NYC landlord portfolio lookup",
+  "Network login brute-forcer",
+  "Network protocol analyzer",
+  "Network scanner & mapper",
+  "OSCP-style training labs by Offensive Security",
+  "OSINT framework",
+  "OSINT tool with Tor support",
+  "Observable analysis and active response engine",
+  "Official Python wrapper and CLI for Censys",
+  "Official Shodan command-line client",
+  "Offline password manager",
+  "Oldest & largest dark web search engine",
+  "On-chain intel — labels, entities, historical flows",
+  "Online EXIF extractor — handles .DOCX/.PDF too",
+  "Online dork builder for Google/Bing/DuckDuckGo",
+  "Online image forensics suite",
+  "Online image forensics — clone detection, level sweep",
+  "Online pentesting labs and CTFs",
+  "Online platform with vulnerable boxes (free + premium)",
+  "Open distributed threat intelligence platform",
+  "Open-source CTI platform structured around STIX2",
+  "Open-source Windows registry parsing tool",
+  "Open-source XDR / SIEM platform",
+  "Open-source adversary emulation/red-team framework (Cobalt Strike alt)",
+  "Open-source image forensics toolset",
+  "Open-source intrusion-prevention/detection system",
+  "Open-source log management / SIEM",
+  "Open-source vulnerability scanner",
+  "Open-source web app scanner",
+  "Open-source, strong reasoning",
+  "OpenAI's AI assistant",
+  "OpenStreetMap data query",
+  "Panama/Pandora/Paradise Papers",
+  "Panama/Pandora/Paradise Papers searchable database",
+  "Parallel brute-force tool",
+  "Parameter discovery from web archives",
+  "Part of awesome-osint-arsenal v2.1 (Hardened Production Edition)",
+  "Passive DNS, WHOIS, SSL cert pivots — now Microsoft Defender TI",
+  "Pattern-based wordlist generator",
+  "Pentesting / hacking knowledge base by carlospolop",
+  "People search & background check",
+  "People search + social media lookup",
+  "People search aggregator",
+  "People search engine",
+  "Peter Yaworski — bug bounty methodology and real reports",
+  "Phishing campaign toolkit",
+  "Phone number lookup",
+  "Phone number validation API",
+  "Phone owner lookup",
+  "Photo-sharing — geosearch + license + camera EXIF intact",
+  "Platform for analyzing, annotating, publishing documents",
+  "PoC tool to coerce Windows hosts to authenticate to attacker",
+  "Polygon (Matic) blockchain explorer",
+  "Post-exploitation framework with PS-based agents",
+  "Post-exploitation tool for AD networks",
+  "Powerful network analysis framework for security monitoring",
+  "Premium 0day acquisition platform",
+  "Premium AI image geolocation by Graylark",
+  "Premium C2 with strong AV/EDR evasion",
+  "Premium adversary intel from CrowdStrike",
+  "Premium adversary intelligence and underground monitoring platform",
+  "Premium adversary simulation / red team framework",
+  "Premium blockchain investigation platform",
+  "Premium evasive C2 by MDSec (Cobalt Strike alt)",
+  "Premium privacy-respecting search engine, no ads, no tracking",
+  "Preview any URL — title, description, screenshot via API",
+  "Privacy-focused browser with built-in Tor/IPFS support",
+  "Privacy-focused search — Google results with no tracking",
+  "Private search on Tor",
+  "Profile-based wordlist generator",
+  "ProjectDiscovery — quickly find exposed hosts via Shodan/Censys/Fofa",
+  "ProjectDiscovery's free BBH program list",
+  "Property records & estimates",
+  "Public archive of PACER court documents",
+  "Public crypto-scam reporting database",
+  "Python Telegram API library",
+  "Python classes for working with network protocols (Windows attacks)",
+  "Python face recognition library",
+  "Python wrapper for Etherscan API",
+  "Rainbow table cracker",
+  "Ransomware & data leak monitoring",
+  "Real Intelligence Threat Analytics — beaconing/long-conn detection",
+  "Real-time X/Twitter data",
+  "Real-time public transport across 700+ cities",
+  "Real-time satellite & weather",
+  "Real-time social media search",
+  "Real-time tracking of GitHub user activity and repo changes",
+  "Real-time tracking of Instagram users with email alerts and CSV logs",
+  "Reconnaissance framework for investigating Telegram",
+  "Recover pixelated text from screenshots",
+  "Reddit user analysis",
+  "Reddit user analysis — summary, top posts, activity stats",
+  "Reddit user comment / submission scraper",
+  "Reference for Google search operators",
+  "Reputation, category, and threat checks for URLs/IPs",
+  "Reverse WHOIS — find domains by registrant",
+  "Reverse engineering framework",
+  "Reverse image search",
+  "Reverse phone lookup",
+  "Reverse proxy phishing framework",
+  "Reverse-lookup email/phone for Google profile data",
+  "Run Google dorks from the command line",
+  "Runtime mobile exploration",
+  "Runtime security and forensics using eBPF (Aqua)",
+  "Russian phone directory",
+  "Russian search engine — strong reverse-image and Cyrillic support",
+  "SQL queries over indexed blockchain data",
+  "STIX/TAXII-native threat intel platform",
+  "Scalable, free, open-source case management for SOCs",
+  "Scan & analyze .onion sites",
+  "Search 14 country license plates from one page",
+  "Search 75+ billion lines of public source code across GitHub/GitLab/Bitbucket",
+  "Search a username across 2000+ websites",
+  "Search archived Reddit content via Pushshift mirror",
+  "Search breaches, darknet, leaks",
+  "Search code from millions of open-source repos",
+  "Search domains by registrant data",
+  "Search engine for dark-web content",
+  "Search engine for finding and analyzing data breaches",
+  "Search engine for source code across the public web",
+  "Search for documents, presentations, sheet music, ebooks",
+  "Search for your data breaches and get notified when compromised",
+  "Search hosts, CVEs, exposed buckets — 10 free searches/day",
+  "Search leaked databases",
+  "Search live streams by category, language, viewer count",
+  "Search public Discord servers and messages",
+  "Search public PowerPoint/PDF presentations",
+  "Search public Telegram messages and channels",
+  "Search social accounts by email or phone",
+  "Search subdomains, URLs, parameters from mobile applications",
+  "Search the web's source code (HTML/JS/CSS) for snippets, trackers, scripts",
+  "Search threat-actor groups and their tools",
+  "Search username across multiple social networks",
+  "Search usernames, emails, phones across 600+ platforms with risk scoring",
+  "Searchable database of 2M+ DOJ Epstein case docs and network graphs",
+  "See how number is saved by others",
+  "Selective archive search — emails, leaks, paste sites, dark-web",
+  "Shadow analysis for time estimation",
+  "Simple IOC and YARA scanner by Florian Roth",
+  "Smart bitcoin block explorer — clusters addresses by entity",
+  "Social engineering toolkit",
+  "Social listening & analytics",
+  "Social listening platform",
+  "Social media aggregator",
+  "Social media analytics",
+  "Social media management",
+  "Social media monitoring",
+  "Social media phishing",
+  "Social media scraper (Twitter, Reddit, etc.)",
+  "South Korean search engine — local content not on Google",
+  "Spreadsheet of threat actors, sponsoring countries, TTPs",
+  "Standardized vulnerability-disclosure language and tools",
+  "Status tracking for the rotating BreachForums mirrors",
+  "Stolen vehicle check",
+  "Street-level imagery",
+  "Street-level imagery (OpenStreetCam)",
+  "Structured Wikipedia data — SPARQL endpoint",
+  "Stuttard & Pinto — appsec bible",
+  "Subdomain enumeration",
+  "Subdomain enumeration scan with virtual host discovery",
+  "Subreddit user-overlap, growth, top posts",
+  "Suite of free Windows DFIR utilities",
+  "Sun position/time calculator from photos",
+  "Super-timeline creation from forensic artifacts",
+  "Take a list of domains and probe for working HTTP/HTTPS",
+  "Technology profiler (browser ext)",
+  "Telegram OSINT analysis",
+  "Telegram channel analytics — post stats, audience overlap",
+  "Telegram channel/group analytics",
+  "Telegram profile investigation",
+  "Telegram search engine — 10 free results",
+  "Tells you which IPs are noise vs targeted threats",
+  "Template-based fast vulnerability scanner",
+  "Test parameters for cross-site scripting reflection",
+  "The TCP/IP swiss army knife",
+  "The ultimate security wordlist collection",
+  "Threat intel from Google's Mandiant team",
+  "Threat intel platform combining intel and SOAR",
+  "Threat intel platform for SOCs",
+  "Threat-actor groups, malware families, and analysis by Fraunhofer",
+  "TikTok data extraction",
+  "Tool for accessing large dumps of Reddit data via API/web",
+  "Tool for performing Kerberos pre-auth bruteforcing",
+  "Tracking tokens (URL, email, DNS, files)",
+  "Twitter OSINT (no API needed)",
+  "Twitter analytics — bio, languages, hashtags, mentions",
+  "Twitter trends history per country",
+  "Twitter/X advanced search wrapper — geo, date, sentiment",
+  "Twitter/X analytics dashboards",
+  "UK company register",
+  "URI/DNS brute-forcer (Go)",
+  "URL masking tool",
+  "URL/IP/threat reputation database",
+  "URL/domain analysis & screenshots",
+  "US company filings",
+  "US federal court records",
+  "Ultimate WinRM shell for hacking/pentesting",
+  "Username & domain availability checker",
+  "Username checker (Go-based)",
+  "Username search on 500+ sites",
+  "Vehicle history reports",
+  "Verified dark web links directory",
+  "View Google/Bing/Yandex cached versions of any page",
+  "Visual inspection of websites across hosts (HTTP screenshots, attack-surface flyovers)",
+  "Visual map of all OSINT tools",
+  "Visual search engine — alternate reverse-image source",
+  "WHOIS lookup with reverse-WHOIS, history, and bulk API",
+  "WPS brute force tool",
+  "Web app pentest payloads, bypasses, and methodology",
+  "Web app security testing proxy",
+  "Web archive — saves snapshots even when robots.txt blocks Wayback",
+  "Web crawler",
+  "Web crawler for OSINT data",
+  "Web directory brute-forcer",
+  "Web fuzzer",
+  "Web hacking toolkit",
+  "Web hacking training and labs",
+  "Web path scanner — advanced wordlist-based directory bruteforce",
+  "Web server vulnerability scanner",
+  "Web technology identifier",
+  "Web technology, hosting history, takedown service",
+  "Web-based username enumeration",
+  "Web3 / crypto-focused bug bounty platform",
+  "What You Can Find",
+  "Wi-Fi packet capture conversion",
+  "Wi-Fi security auditing suite",
+  "Wi-Fi social engineering (evil twin)",
+  "Wikipedia's structured-data backbone — query via SPARQL",
+  "Windows credential dumper",
+  "Windows event log fast forensics timeline generator",
+  "Windows password cracker (rainbow tables)",
+  "Wireless network detector & sniffer",
+  "WordPress vulnerability scanner",
+  "Worldwide rail network map — rolling stock, infrastructure, signals",
+  "Wrapper around grep with patterns for bug-bounty workflow",
+  "Yandex/Bing/TinEye combined reverse-image search",
+  "\"+995XXXXXXXXX\"",
+  "\"name surname\" site:facebook.com/` or `\"name\" \"+995\"",
+  "(Handles varying package definitions between distributions gracefully)",
+  "(Restricted) Vital records verification",
+  "**16+**",
+  "**167+**",
+  "**500+**",
+  "**Aircrack-ng**",
+  "**Amass**",
+  "**Autopsy**",
+  "**Bettercap**",
+  "**BinCheck**",
+  "**Burp Suite**",
+  "**Canary Tokens**",
+  "**Censys**",
+  "**CyberChef**",
+  "**DeHashed**",
+  "**DeepFace**",
+  "**ExifTool**",
+  "**Eye of God**",
+  "**EyeWitness**",
+  "**FNS (Tax Service)**",
+  "**GeoSpy**",
+  "**GetContact**",
+  "**GetNotify**",
+  "**Gobuster**",
+  "**HTTPx**",
+  "**Hackingtool**",
+  "**Hashcat**",
+  "**Have I Been Pwned**",
+  "**Holehe**",
+  "**Hydra**",
+  "**IPGeoLocation**",
+  "**Maigret**",
+  "**Maltego**",
+  "**Metasploit**",
+  "**NexPhisher**",
+  "**Nmap**",
+  "**Nuclei**",
+  "**Orbit**",
+  "**Osintgram**",
+  "**Perplexity AI**",
+  "**PhoneInfoga**",
+  "**PhoneSploit**",
+  "**Photon**",
+  "**PimEyes**",
+  "**Recon-ng**",
+  "**Responder**",
+  "**SQLMap**",
+  "**Search4faces**",
+  "**SecLists**",
+  "**Sherlock**",
+  "**Shodan**",
+  "**SpiderFoot**",
+  "**Storm-Breaker**",
+  "**Subfinder**",
+  "**TelPoisk**",
+  "**Tor Browser**",
+  "**UserRecon**",
+  "**VirusTotal**",
+  "**Volatility**",
+  "**Wireshark**",
+  "**Zphisher**",
+  "**dnsrecon**",
+  "**fsociety**",
+  "**h8mail**",
+  "**osmedeus**",
+  "**theHarvester**",
+  "**trufflehog**",
+  "-m 1000 = NTLM (Windows)",
+  "-m 1800 = SHA-512crypt (Linux)",
+  "-m 2500 = WPA/WPA2 (Wi-Fi)",
+  "1. EyeWitness (Patched to automatically invoke internal dependency setup toolchain)",
+  "1. EyeWitness Custom Logic (Auto-executes internal dependency compiler script)",
+  "1. Username & Social Media OSINT",
+  "10. WikiLeaks, DDoSecrets & Whistleblower Platforms",
+  "11. Password Cracking & Credential Tools",
+  "11.9 MB dictionary of Georgian words and common passwords",
+  "12. Dark Web Search Engines & Tools",
+  "13. Anonymous & Privacy Tools",
+  "14. Web Application OSINT & Scanning",
+  "15. Social Engineering & Phishing",
+  "16. Vulnerability Scanning & Exploitation",
+  "17. Network & Wireless Tools",
+  "18. Mobile Hacking & Phone Exploitation",
+  "19. AI-Powered OSINT & Free AI Tools",
+  "2. Email OSINT Tools",
+  "2. OpenCV Headless (Pivoted to prevent display dependency crashes on servers or bare CLI nodes)",
+  "2. OpenCV Headless (Prevents OS runtime display crashes on headless servers/CLI setups)",
+  "20. Financial & Corporate Intelligence",
+  "21. Vehicle, Property & Public Records",
+  "22. Metadata & Digital Forensics",
+  "23. IP Camera & Webcam OSINT",
+  "24. Google Dorking Bible",
+  "25. Credential & Data Dorking",
+  "26. IP Tracking & Geolocation Links",
+  "27. Telegram OSINT Bots & Channels",
+  "28. Russian OSINT & Person Lookup Services",
+  "2800+ security tools",
+  "29. Social Media Searcher Platforms",
+  "3. Modern Go-Engine TruffleHog (Pivoted from deprecated Python v2 pip package to v3 Go release)",
+  "3. Modern TruffleHog (Pivoted from the deprecated Python pip v2 build to modern v3 Go engine)",
+  "3. Phone Number OSINT",
+  "30. Termux Hacking Toolkit (Complete)",
+  "31. Kali Linux OSINT Toolkit",
+  "32. All-in-One Hacking Frameworks",
+  "33. Wordlist Generation & Brute Force",
+  "34. Hardware Hacking Tools",
+  "35. OSINT Operating Systems",
+  "36. OSINT APIs & Developer Tools",
+  "37. Browser Extensions for OSINT",
+  "38. OSINT Learning Resources",
+  "39. Awesome OSINT GitHub Repos",
+  "40. One-Click Install Scripts",
+  "41. Top 50 Must-Have Tools (Quick Reference)",
+  "42. ⚔️ Red Team & Offensive Security",
+  "43. 🛡️ Blue Team & Defensive Security",
+  "44. 🛰️ Threat Intel Platforms",
+  "45. 🔬 Digital Forensics & Reverse Engineering",
+  "46. 🎓 Training, Labs & CTF",
+  "47. 🎯 Bug Bounty Platforms",
+  "48. 📚 Learning Resources",
+  "49. ✨ Extra Tools (curated additions)",
+  "5. Geolocation & Maps OSINT",
+  "50. 🇬🇪 Georgian OSINT Arsenal (500+ resources)",
+  "50.1 Government Registries & E-Government Portals",
+  "50.10 Media Landscape & News OSINT",
+  "50.11 Data Leaks & Breaches",
+  "50.12 Phone & Telecom OSINT",
+  "50.13 Social Media & Platform OSINT",
+  "50.14 Open Data & Statistics Portals",
+  "50.15 Procurement & Government Spending",
+  "50.16 Domain & IP & Network Intelligence",
+  "50.17 Education & Academic Databases",
+  "50.18 Health & Medical Databases",
+  "50.19 NGO & Civil Society & Watchdogs",
+  "50.2 Person Search & Identity OSINT",
+  "50.20 Fact-Checking & Disinformation Tracking",
+  "50.21 Archives & Historical Databases",
+  "50.22 Auctions & Seized Property",
+  "50.23 Job Markets & Classifieds",
+  "50.24 Asset Declarations & Anti-Corruption",
+  "50.25 Georgian Wordlists & Password Tools",
+  "50.26 Telegram OSINT for Georgia",
+  "50.27 Investigation Frameworks & Communities",
+  "50.28 Google Dorking for Georgia",
+  "50.3 Company & Business Intelligence",
+  "50.4 Legal & Court Records",
+  "50.5 Enter case number or date range",
+  "50.6 Note: Personal data is anonymized in published decisions",
+  "50.7 For cases after April 2020 -- many are NOT published online",
+  "50.8 Election & Political Data",
+  "50.9 Maps & Geospatial Intelligence",
+  "6. Image & Video OSINT",
+  "7. Facial Recognition & People Search",
+  "8. Social Media Monitoring",
+  "9. Data Breach & Leak Search Engines",
+  "AI geolocation from images",
+  "AI-Powered OSINT Tools",
+  "API-based social media profiler",
+  "API-based social media profiler for 1000+ sites",
+  "AS16010, AS28751",
+  "AXIS cameras",
+  "Academic Search",
+  "Advanced Combinations",
+  "Advanced Sherlock fork — 3000+ sites",
+  "Advanced username search across 3000+ sites with reports",
+  "After install — add tools to your PATH",
+  "All terms in page body",
+  "All-in-one hacking tool (100+ categories)",
+  "All-in-one tool (100+ categories)",
+  "Android-compatible subset",
+  "Anonymize entire OS traffic",
+  "Anonymize entire OS traffic through Tor",
+  "Anonymous OS via Tor",
+  "Anonymous web browsing",
+  "Anonymous web browsing via Tor network",
+  "Appending @latest ensures compliance with modern Go package management installation protocols",
+  "Appendix A: Georgian Alphabet Quick Reference",
+  "Appendix B: OSINT Investigation Workflow for Georgia",
+  "Appendix C: Key URLs Quick Reference",
+  "Archival OSINT Tips",
+  "Asset search and analysis tool",
+  "Async Instagram downloader with HikerAPI and optional aiograpi backends",
+  "Automated Google dorking tool",
+  "Automated and scalable system for firmware emulation",
+  "Automated breach hunting CLI",
+  "Automated pentest helper",
+  "Automated pentest reconnaissance scanner",
+  "Available data:",
+  "Available for: MPs, ministers, judges, prosecutors, mayors, high-ranking",
+  "Awesome OSINT Arsenal — Master Orchestrator",
+  "Awesome OSINT Arsenal — Termux (Android) installer",
+  "Axis network cameras",
+  "Banks & Financial Institutions",
+  "Bash-based username finder",
+  "Bash-based username finder across platforms",
+  "Basic metadata read",
+  "Basic scan",
+  "Batch process a whole folder",
+  "Best free VPN — unlimited data, no-log, open-source, Swiss privacy",
+  "Best support: Kali / Debian / Ubuntu / Parrot.",
+  "Binary install (Kali Linux)",
+  "Bitcoin blockchain explorer",
+  "Bitcoin transaction graph analysis",
+  "Blockchain analytics & investigation",
+  "Blue Iris CCTV",
+  "Brazil crime + accidents open data by neighborhood (bairro-level RS; municipal MG/RJ; PRF accidents)",
+  "Breach Search Tools (Check Georgian Data)",
+  "Breach check",
+  "Breach data search",
+  "Brute force",
+  "Budget Transparency",
+  "Budget software-defined radio dongle",
+  "Business & Corporate Intelligence",
+  "Business registration status, founders, directors",
+  "CGI video streams",
+  "CLI tool for OSINT investigations",
+  "Calculate execution duration metrics",
+  "Caller ID & spam lookup",
+  "Camera & IoT Discovery",
+  "Captured credentials are saved locally",
+  "Central Election Commission (CEC)",
+  "Change browser identity",
+  "Cheap ($30) SDR receiver — entry into RF",
+  "Check Telegram account creation date",
+  "Check email on 120+ sites",
+  "Check for enforcement proceedings against individuals",
+  "Check individual tax debts (limited)",
+  "Check username history of TG accounts",
+  "Check username presence across dev/social/gaming sites",
+  "Classifieds (Multi-Category)",
+  "Clearnet dark web search",
+  "Clearnet search engine for dark web",
+  "Clone pwndb",
+  "Collaborative world map",
+  "Collaborative world map with annotations",
+  "Combining Georgian names with years",
+  "Common Georgian Password Patterns",
+  "Common hash types:",
+  "Common keyboard patterns in Georgian layout",
+  "Company Due Diligence",
+  "Complete metadata extraction",
+  "Complete metadata extraction from images/docs",
+  "Core Environment Guard",
+  "Core Government Portals",
+  "Core Operators",
+  "Country code: +995",
+  "Court Databases",
+  "Covert network access & MITM",
+  "Crack MD5 hash with wordlist",
+  "Crack SHA-256 with rules",
+  "Create config.ini with your API keys from HIBP, BreachDirectory, etc.",
+  "Credential & Sensitive Data Discovery",
+  "Custom wordlist from any website",
+  "Cybercrime intelligence platform",
+  "Cybersecurity news & tools",
+  "Cybersecurity tutorials",
+  "Cyberspace search engine for IoT",
+  "DNS enumeration",
+  "DNS enumeration and reconnaissance",
+  "DVWA, Juice Shop, WebGoat (Docker)",
+  "Dahua DVR systems",
+  "Dark web scraping tool",
+  "Declassified CIA documents",
+  "Defensive File Verification Hook",
+  "Detect AI-generated content",
+  "Dial 114 from Georgian number",
+  "Directory brute force",
+  "Discord server discovery platform",
+  "Discord user and server search engine",
+  "Discord user search platform",
+  "Disease incidence by region, mortality data, vaccination rates",
+  "Disinformation Monitoring",
+  "Distributed Denial of Secrets",
+  "Document metadata harvester",
+  "Document metadata harvester from public docs",
+  "Documents archive since 1996",
+  "Domain intelligence",
+  "Domain name permutation engine for phishing detection",
+  "Dork Generator Tools",
+  "Dynamically append Go structural binaries paths into active execution scope",
+  "Education Portals",
+  "Email & Username OSINT",
+  "Email & domain harvester",
+  "Email address reputation and risk scoring",
+  "Email discovery",
+  "Email reputation lookup",
+  "Email, subdomain & IP harvesting tool",
+  "Email, username & phone breach lookup — fast results with real data",
+  "Email/subdomain OSINT",
+  "Emergency: 112 (universal)",
+  "Ensure all complementary module scripts are checked out into this workspace directory.",
+  "Ensure the script path variables check compiled root/user Go target binaries immediately",
+  "Ethical hacking",
+  "Execute subshell layer. Exporting LOGFILE ensures sub-modules write to the same path.",
+  "Explicitly grant executable permissions to prevent permission denial traps",
+  "Exploit-DB Google dork database",
+  "External attack surface management",
+  "Extract GPS coordinates specifically",
+  "Extract info from web pages",
+  "Extract user info from web page source code",
+  "FBI electronic reading room",
+  "Face analysis (age, gender, emotion)",
+  "Fact-Checking Organizations",
+  "Fast person lookup",
+  "Fast username search tool",
+  "Fast username search tool across 600+ websites",
+  "Fast username search tool in Go",
+  "File/URL analysis",
+  "File/URL/domain malware analysis",
+  "Financial & Investment Data",
+  "Financial OSINT Searches",
+  "Find Georgian government reports with data",
+  "Find configuration files",
+  "Find email lists",
+  "Find exposed databases",
+  "Find exposed directories",
+  "Find professional email addresses by domain",
+  "Find professional emails",
+  "Find profiles by username",
+  "Find profiles by username on various platforms",
+  "Find secrets in git repos",
+  "Find usernames across 400+ social networks",
+  "Firmadyne & Firmwalker Core Repositories",
+  "First name + last name + year patterns common in Georgia",
+  "First-time Termux setup",
+  "Fix RTL-SDR DVB-T Kernel Conflict",
+  "Flight tracking and data platform",
+  "Format: +995 XXX XXX XXX (9 digits after country code)",
+  "Format: crunch <min> <max> <charset>",
+  "Free AI Tools for OSINT Research",
+  "Free AIS vessel tracking",
+  "Free VIN decoder",
+  "Free VIN decoder and vehicle history",
+  "Free VPN by Calyx Institute — no accounts required",
+  "Free VPN by Riseup collective — no accounts, no tracking",
+  "Free VPN with 10GB/month and zero-log policy",
+  "Free censorship circumvention tool — peer-to-peer",
+  "Free collaborative world map",
+  "Free people search",
+  "Free people search by email, username, or name across 175+ sites",
+  "Free people search by name/email/phone",
+  "Free website malware scanner",
+  "Free world map",
+  "From GitHub source (always latest)",
+  "From source",
+  "From this repo's installer (recommended — installs everything)",
+  "Full automated recon workflow",
+  "Full automated reconnaissance workflow",
+  "GIS Data Sources",
+  "GPU password cracking",
+  "Generate Google Dorks with AI",
+  "Generate HTML report",
+  "Generate a pattern-based wordlist with Crunch",
+  "Generate custom wordlist from a target website",
+  "Generating Georgian Wordlists",
+  "Generous free VPN with 10GB/month and ad blocking",
+  "Geolocation Tips for Georgia",
+  "Georgian ASN & Network Data",
+  "Georgian Facebook OSINT",
+  "Georgian Language Wordlists",
+  "Georgian License Plate Format",
+  "Georgian Mapping Services",
+  "Georgian Mobile Operators",
+  "Georgian News & Political Channels",
+  "Georgian Phone Number Format",
+  "Georgian Social Media Landscape",
+  "Georgian Users (est.)",
+  "Georgian classifieds often reveal:",
+  "Georgian plates follow these formats:",
+  "Georgian public officials must declare annually:",
+  "Georgian script (Mkhedruli) -- 33 letters:",
+  "Georgian-Specific Person Search",
+  "Get info linked to any email address",
+  "Get info linked to email",
+  "Global Investigative Journalism Network",
+  "Global reverse phone number lookup",
+  "Google Dork",
+  "Google Dorks for Camera Discovery",
+  "Google Jigsaw's self-hosted VPN — censorship circumvention",
+  "Google dork search engine",
+  "Google dorking fuzzer",
+  "Government & Official Sites",
+  "Government Auction Platforms",
+  "Government contracts won",
+  "Hacking tutorials",
+  "Hak5's wireless auditing platform",
+  "Hands-on CTF competitions",
+  "Hardware Utilities & Signal Frameworks",
+  "Hardware tool for IoT firmware/UART/JTAG analysis",
+  "Health Authorities",
+  "High-Value OSINT Dorks",
+  "Historical & Cultural Databases",
+  "Hunt down social media accounts by username across 400+ sites",
+  "ICIJ Databases (Georgian Entries)",
+  "ICIJ Offshore Leaks Database -- Georgian entities",
+  "IP address data API",
+  "If they appear in AML sanctions",
+  "Image/document metadata extraction",
+  "Impact: Georgian personal data (name, DOB, ID number, phone)",
+  "Important Context",
+  "In-depth DNS enumeration",
+  "In-depth DNS enumeration and network mapping",
+  "Industry-standard open-source VPN protocol",
+  "Initial Setup",
+  "Initialize/Wipe Master Error Log",
+  "Install Tor",
+  "Install requirements",
+  "Installs compiling prerequisites based on platform to prepare for firmware flashing",
+  "Interactive Instagram OSINT CLI with REPL, one-shot mode, snapshots, diffs, and Maltego-ready exports",
+  "Interactive Instagram OSINT CLI with REPL, snapshots, diffs, and Maltego exports",
+  "Interactive Instagram OSINT CLI with snapshots, diffs, and Maltego-ready exports",
+  "Interactive tool directory",
+  "International sanctions cross-reference",
+  "Internet asset search and discovery",
+  "Internet scanning",
+  "Internet scanning and intelligence",
+  "Investigate Google emails and documents",
+  "Investigative Communities",
+  "Investigative Journalism",
+  "Investigative journalism",
+  "IoT and device search engine",
+  "IoT/device search",
+  "Job Portals",
+  "Kali Linux / Ubuntu",
+  "Key Georgian NGOs (OSINT Resources)",
+  "Key Legal Resources",
+  "Key Statistical Datasets",
+  "Key my.gov.ge Services for OSINT",
+  "Key visual identifiers for geolocating imagery in Georgia:",
+  "Landline prefixes:",
+  "Leaked government & corporate documents",
+  "Licensed hospitals and clinics with addresses and specializations",
+  "Licensed pharmacies across Georgia",
+  "Live cameras directory",
+  "Long-range dual-band Wi-Fi adapter",
+  "Main Engine Execution",
+  "Maintain color scheme and logging alignment with sub-modules",
+  "Major Georgian Data Breaches",
+  "Major Georgian ISP ASNs",
+  "Major Georgian News Sources",
+  "Make sure this line is present: socks5 127.0.0.1 9050",
+  "Malware Information Sharing Platform",
+  "Malware analysis",
+  "Master Compilation Dashboard",
+  "Medical OSINT",
+  "Medical professional licensing (through Ministry of Health)",
+  "Michael Bazzell's resources & podcast",
+  "Mobile prefixes:",
+  "Mobotix cameras",
+  "Modern Go requires an explicit version suffix tag (like @latest) to compile safely out of module scope",
+  "Modern VPN protocol — ultra-fast, minimal attack surface",
+  "Module-based recon framework",
+  "Module-based web reconnaissance framework",
+  "Most common Georgian password structures:",
+  "Mr. Robot-inspired hacking framework",
+  "Mr. Robot-inspired hacking pack",
+  "Multi-engine reverse image search",
+  "Multi-function USB attack platform",
+  "Multi-purpose OSINT toolkit with web interface",
+  "Multi-search OSINT bot",
+  "Multi-source satellite imagery access",
+  "Multi-tool for pentesters and geeks — RF/RFID/NFC/IR/GPIO",
+  "Multi-tool: RFID, NFC, IR, Sub-GHz, BadUSB",
+  "Multiple DNS investigation tools",
+  "Multiple DNS tools",
+  "NAPR extract -- shows current and historical directors",
+  "NAPR property registry -- search by company name",
+  "NSA declassified records",
+  "National Archives & Libraries",
+  "National Bank & Financial Regulators",
+  "National Statistics",
+  "Network packet analysis",
+  "Network scanning",
+  "Note: Georgian plates use Latin letters",
+  "Note: Termux occasionally requires --break-system-packages depending on python environment state",
+  "ORCHESTRATOR ERROR: File not found: $inst",
+  "ORCHESTRATOR ERROR: Sub-module execution failure status returned from: $inst",
+  "OSCE/ODIHR reports",
+  "OSINT & forensics focused",
+  "OSINT Bots",
+  "OSINT Channels",
+  "OSINT Frameworks with Georgian Coverage",
+  "OSINT Swiss Army Knife framework",
+  "OSINT Telegram Bots (Work with Georgian Data)",
+  "OSINT Value of Classifieds",
+  "OSINT automation platform",
+  "OSINT automation platform (200+ modules)",
+  "OSINT community",
+  "OSINT engine indexing exposed assets",
+  "OSINT for missing persons CTFs",
+  "OSINT investigation tool",
+  "OSINT investigative journalism",
+  "OSINT profiling tool with reports",
+  "OSINT tool for email/phone/name investigations",
+  "OSINT tools (Sherlock, Maigret, Amass, theHarvester, …)",
+  "OSINT value: Shows who lost property and why (debt, crime, tax evasion)",
+  "OSINT web capture & case manager",
+  "Online website malware scanner",
+  "Open Data Portals",
+  "Open On-Chip Debugger — JTAG/SWD interface for embedded",
+  "Open threat exchange platform",
+  "Open web UI at localhost:8080",
+  "Open-source 2.4 GHz wireless dev platform — Bluetooth research",
+  "OpenCorporates -- linked entities across jurisdictions",
+  "Operational Metrics Tracker",
+  "Optimized for ARM64/ARM environments and compilation requirements.",
+  "Option 1: Direct from this repo (one command)",
+  "Option 2: Clone first (recommended — inspect before running)",
+  "Or add specific tools manually:",
+  "Other Linux distros",
+  "Packet analysis",
+  "Panama Papers, Pandora Papers",
+  "Part of awesome-osint-arsenal v2.1 (Unified Production Edition)",
+  "Part of awesome-osint-arsenal v3.4 (Unified Production Edition)",
+  "Password cracking",
+  "Password cracking tools:",
+  "Pattern matching for malware research",
+  "Penetration testing",
+  "Penetration testing (600+ tools)",
+  "Person lookup by phone/email/photo/VK",
+  "Personal Information Discovery",
+  "Phone Number & Identity Lookup",
+  "Phone OSINT Techniques for Georgian Numbers",
+  "Phone number caller ID",
+  "Pick a single stack",
+  "Platform-Specific Tools",
+  "Political Data Sources",
+  "Popular among Russian-speaking Georgians and occupied territories",
+  "Popular among older Georgian demographic",
+  "Post-Install Kernel Optimization Layer",
+  "Premium offensive hardware tools",
+  "Prevents the native Linux kernel from claiming the SDR as a TV Tuner card",
+  "Primary Business Registries",
+  "Privacy & anonymity (amnesic)",
+  "Privacy VPN (no email needed)",
+  "Privacy-first VPN — no email needed, cash accepted",
+  "Privacy-first VPN — open-source, audited, no email signup",
+  "Privacy-respecting metasearch engine",
+  "Procurement Platforms",
+  "Professional cyber training",
+  "Professional profiles, especially for business investigations",
+  "Profile-based wordlist (interview the target)",
+  "Programmable search",
+  "Property OSINT Workflow",
+  "Property Registries",
+  "Proxmark3 Source Provisioning",
+  "Proxy management",
+  "Public Official Asset Declarations",
+  "Public Registries & Databases",
+  "Public document research",
+  "Python script for generating custom Georgian wordlists from rules",
+  "Quick Kali Setup (additional tools)",
+  "Quick install — Kali / Debian / Ubuntu / Parrot",
+  "RFID/NFC research & cloning tool",
+  "RFID/NFC research and exploitation hardware + software",
+  "RTSP cameras with screenshots",
+  "Real Estate Portals (OSINT Gold Mines)",
+  "Real estate ownership by cadastral code",
+  "Real-time flight tracking",
+  "Real-time ship tracking",
+  "Real-time username availability checker",
+  "Real-time username checker",
+  "Recursive internet scanner for attack surface",
+  "Registered notaries and their activities",
+  "Repository/user data",
+  "Reverse image search with facial recognition",
+  "Review comprehensive build errors here: $LOGFILE",
+  "Runs each category installer sequentially with error handling.",
+  "Russian-Language OSINT Channels (Relevant to Georgia)",
+  "SANS digital forensics",
+  "SDR Radio / Hardware Tooling Packages",
+  "SDR transceiver covering 1 MHz to 6 GHz",
+  "SQL injection",
+  "SSL/TLS server testing",
+  "STEP 2: GOVERNMENT DATABASES",
+  "STEP 3: SOCIAL MEDIA & ONLINE PRESENCE",
+  "STEP 5: BREACH & LEAK DATA",
+  "STEP 6: PHONE OSINT",
+  "Satellite imagery access",
+  "Save Discord chat history",
+  "Save complete web pages",
+  "Scan from CLI",
+  "Script for searching extracted firmware filesystems",
+  "Search \"Georgia politics\"",
+  "Search & download confirmed malware samples",
+  "Search .onion URLs from multiple engines",
+  "Search by file type",
+  "Search code across all public GitHub repos",
+  "Search email by phone number",
+  "Search exposed internet assets and malicious IPs",
+  "Search in URL path",
+  "Search in page body",
+  "Search in page title",
+  "Search multiple usernames at once",
+  "Search publicly available info connected to a username",
+  "Search techniques:",
+  "Search within a domain",
+  "Searching Court Records -- Tips",
+  "Security via compartmentalization",
+  "Select template from menu (Facebook, Google, Instagram, etc.)",
+  "Self-hosted cloud VPN — sets up WireGuard/IPsec automatically",
+  "Semi-automatic OSINT framework in Rust",
+  "Server info on any website",
+  "Shodan Searches for Exposed Cameras",
+  "Shodan scanning automation tool",
+  "Show all metadata groups",
+  "Sliver, BloodHound, Impacket, NetExec, Mimikatz, Nuclei, …",
+  "Social engineering techniques",
+  "Social intelligence platform",
+  "Social media & web monitoring",
+  "Social media presence checker",
+  "Software-defined radio (1MHz–6GHz)",
+  "Software-defined radio receiver GUI",
+  "Start Tor service",
+  "Start Tor service first",
+  "Step 1: Enumerate subdomains passively (fast)",
+  "Step 2: Deep active enumeration (slower but more complete)",
+  "Step 3: Combine and deduplicate",
+  "Step 4: Check which subdomains are live",
+  "Step 5: Screenshot all live hosts",
+  "Strip ALL metadata (for privacy)",
+  "Submit information requests to any government body",
+  "Switch to the script's execution directory to safely resolve relative script paths",
+  "Take screenshots of web pages",
+  "Target Sub-modules",
+  "Tax status, registration, debts",
+  "Technology stack detector",
+  "Telegram OSINT Techniques for Georgia",
+  "Telegram Scraping Tools",
+  "Telegram app",
+  "Telegram user & group lookup database",
+  "Test Tor is working",
+  "The .onion address (open in Tor Browser)",
+  "The Ultimate Open-Source Intelligence + Security Toolkit",
+  "The last web recon tool you'll need",
+  "Threat intelligence",
+  "Threat intelligence enrichment",
+  "Threat intelligence platform",
+  "Tool List",
+  "Tool for identifying/reading/writing flash chips",
+  "Tool generates a phishing URL with Cloudflare/Serveo tunnel",
+  "Toolkit for building software-defined radio systems",
+  "Tools mapped out to: $HOME/osint-arsenal/",
+  "Training platform & challenges",
+  "Transport Authority Data",
+  "Trigger and sync system hardware management layer",
+  "URL & data artifact analysis tool",
+  "URL analysis",
+  "USB cable with embedded implant",
+  "USB keystroke injection device",
+  "Unfiltered flight tracking data",
+  "Universal blockchain explorer & search",
+  "Universal serial-protocol probe (I2C, SPI, UART, JTAG)",
+  "Universities (Major)",
+  "Use RockYou (already in Kali)",
+  "Use proxychains with any tool",
+  "Useful Shodan/Censys Queries for Georgia",
+  "Useful for searching Georgian names in Latin script when researching",
+  "Username research framework",
+  "Username research framework with multiple tools",
+  "Username search (Russian-focused)",
+  "Username search with Russian-focused platforms",
+  "Using crunch for Georgian patterns",
+  "Using make_wordlist.py (from uploaded tools)",
+  "VK (VKontakte) OSINT",
+  "Vehicle Databases",
+  "Very popular in Georgia, especially ages 18-35",
+  "Viber app",
+  "Video verification toolkit",
+  "Video verification toolkit (browser extension)",
+  "Video/image verification",
+  "View Google's cached version",
+  "View archived pages instantly",
+  "View image metadata",
+  "Visual OSINT & link analysis",
+  "Visual OSINT link analysis platform",
+  "Visual link analysis",
+  "Volatility 3, Ghidra, radare2, Plaso, CyberChef, …",
+  "Vulnerability & CVE search",
+  "WHOIS domain lookup",
+  "WHOIS domain registration lookup",
+  "Wayback Machine queries for Georgian sites:",
+  "Wazuh, Sigma, Suricata, Velociraptor, Atomic Red Team, MITRE CALDERA",
+  "Web archive",
+  "Web archive - explore website history",
+  "Web proxy",
+  "Web recon framework",
+  "Web scanner",
+  "Web technology profiler",
+  "Web-accessible DVR",
+  "WebcamXP servers",
+  "Webcams indexed by Shodan",
+  "Website vulnerability scanner",
+  "Weekly OSINT newsletter",
+  "What You Can Find in Auction Data",
+  "What You Find",
+  "What every installer does",
+  "What's in Asset Declarations",
+  "WhatsApp app",
+  "Whistleblower submission system",
+  "Wi-Fi adapters known to support monitor/inject mode (AWUS036ACH etc.)",
+  "Windows pentest VM",
+  "Wireless network mapping database",
+  "With API keys (unlocks more breach sources)",
+  "WordPress scanner",
+  "X/Twitter data API & MCP skill",
+  "Yawcam webcams",
+  "allintext:\"@gmail.com\" \"password\" filetype:xlsx",
+  "binwalk, hackrf, openocd, GNU Radio, gqrx, …",
+  "build-essential, clang, python-dev are REQUIRED to build wheel packages natively on Android",
+  "cesko.ge -- full precinct-level data",
+  "ecd.court.ge -- search by company name or ID",
+  "ext:conf OR ext:cnf \"password\"",
+  "ext:php intitle:phpinfo",
+  "filetype:csv \"email\" \"password\"",
+  "filetype:env \"DB_PASSWORD\" OR \"API_KEY\" OR \"SECRET\"",
+  "filetype:htpasswd htpasswd",
+  "filetype:log \"password\" OR \"username\"",
+  "filetype:pem \"AKIA\" OR \"ASIA\"",
+  "filetype:pem \"PRIVATE KEY\"",
+  "filetype:sql \"CREATE TABLE\" \"INSERT INTO\"",
+  "filetype:sql \"INSERT INTO\" \"password\" \"email\"",
+  "filetype:txt \"username\" \"password\" site:pastebin.com",
+  "intitle:\"Dashboard [Jenkins]\" inurl:\"/login\"",
+  "intitle:\"index of\" \".env\"",
+  "intitle:\"index of\" \".git\"",
+  "intitle:\"index of\" \"passwords.txt\"",
+  "intitle:\"index of\" inurl:ftp",
+  "inurl:phpmyadmin/index.php intitle:\"phpMyAdmin\"",
+  "isfed.ge -- real-time parallel vote tabulation",
+  "opensanctions.org -- cross-reference with international sanctions",
+  "pip install (alternative)",
+  "rs.ge -- check if company is active taxpayer",
+  "site:github.com \"API_KEY\" OR \"api_secret\" filetype:env",
+  "tenders.procurement.gov.ge -- search by supplier name",
+  "~2.5M Georgian users. Search by name in Georgian script. Many profiles have phone numbers visible",
+  "⚔️  Red team / offensive",
+  "⚖️ Legal Disclaimer",
+  "⚙️ Installation Guide",
+  "⚡ Get everything in one command",
+  "🇬🇪 Georgian OSINT",
+  "🎓 Training / vulnerable apps",
+  "🎯 Or pick just what you need",
+  "🐉 Kali Linux — Full Arsenal",
+  "💻 CLI Tools",
+  "📊 Stats at a Glance",
+  "📋 Table of Contents",
+  "📱 Termux (Android)",
+  "📺 YouTube Channels",
+  "🔌 Hardware",
+  "🔌 Hardware Hacking & SDR",
+  "🔍 AWESOME OSINT ARSENAL",
+  "🔍 OSINT toolkit",
+  "🔧 Manual Kali Snippet",
+  "🔧 Misc / catch-all",
+  "🛡️  Blue team / defensive + threat intel",
+  "🛡️ 🔧 Blue Team, Threat Intel & Misc Lab Provisioner",
+  "🤝 Contributing & Issues"
+ ],
+ "sources": {
+  "🔍 AWESOME OSINT ARSENAL": [
+   "readme-heading"
+  ],
+  "The Ultimate Open-Source Intelligence + Security Toolkit": [
+   "readme-heading"
+  ],
+  "⚡ Get everything in one command": [
+   "readme-heading"
+  ],
+  "🎯 Or pick just what you need": [
+   "readme-heading"
+  ],
+  "📋 Table of Contents": [
+   "readme-heading"
+  ],
+  "⚙️ Installation Guide": [
+   "readme-heading"
+  ],
+  "Quick install — Kali / Debian / Ubuntu / Parrot": [
+   "readme-heading"
+  ],
+  "Pick a single stack": [
+   "readme-heading"
+  ],
+  "OSINT tools (Sherlock, Maigret, Amass, theHarvester, …)": [
+   "readme-table"
+  ],
+  "Sliver, BloodHound, Impacket, NetExec, Mimikatz, Nuclei, …": [
+   "readme-table"
+  ],
+  "Wazuh, Sigma, Suricata, Velociraptor, Atomic Red Team, MITRE CALDERA": [
+   "readme-table"
+  ],
+  "Volatility 3, Ghidra, radare2, Plaso, CyberChef, …": [
+   "readme-table"
+  ],
+  "binwalk, hackrf, openocd, GNU Radio, gqrx, …": [
+   "readme-table"
+  ],
+  "DVWA, Juice Shop, WebGoat (Docker)": [
+   "readme-table"
+  ],
+  "Android-compatible subset": [
+   "readme-table"
+  ],
+  "Other Linux distros": [
+   "readme-heading"
+  ],
+  "What every installer does": [
+   "readme-heading"
+  ],
+  "After install — add tools to your PATH": [
+   "readme-heading"
+  ],
+  "📊 Stats at a Glance": [
+   "readme-heading"
+  ],
+  "💻 CLI Tools": [
+   "readme-table"
+  ],
+  "**167+**": [
+   "readme-table"
+  ],
+  "🇬🇪 Georgian OSINT": [
+   "readme-table"
+  ],
+  "**500+**": [
+   "readme-table"
+  ],
+  "🔌 Hardware": [
+   "readme-table"
+  ],
+  "**16+**": [
+   "readme-table"
+  ],
+  "1. Username & Social Media OSINT": [
+   "readme-heading"
+  ],
+  "Find usernames across 400+ social networks": [
+   "readme-table"
+  ],
+  "Advanced Sherlock fork — 3000+ sites": [
+   "readme-table"
+  ],
+  "Username & domain availability checker": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web-based username enumeration": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Username search (Russian-focused)": [
+   "readme-table"
+  ],
+  "Bash-based username finder": [
+   "readme-table"
+  ],
+  "Fast username search tool": [
+   "readme-table"
+  ],
+  "API-based social media profiler": [
+   "readme-table"
+  ],
+  "Find profiles by username": [
+   "readme-table"
+  ],
+  "Extract info from web pages": [
+   "readme-table"
+  ],
+  "GitHub OSINT reconnaissance": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Username research framework": [
+   "readme-table"
+  ],
+  "Check email/username availability": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Username checker (Go-based)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Visual map of all OSINT tools": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Check username across multiple platforms": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Username search on 500+ sites": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Real-time username checker": [
+   "readme-table"
+  ],
+  "Free social network search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free people search by email, username, or name across 175+ sites": [
+   "readme-table"
+  ],
+  "Kali Linux / Ubuntu": [
+   "readme-heading"
+  ],
+  "From GitHub source (always latest)": [
+   "readme-heading"
+  ],
+  "Search multiple usernames at once": [
+   "readme-heading"
+  ],
+  "From source": [
+   "readme-heading"
+  ],
+  "Generate HTML report": [
+   "readme-heading"
+  ],
+  "2. Email OSINT Tools": [
+   "readme-heading"
+  ],
+  "Email OSINT & breach hunting": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Check email on 120+ sites": [
+   "readme-table"
+  ],
+  "Email & domain harvester": [
+   "readme-table"
+  ],
+  "Analyze suspicious .eml files": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email & domain reconnaissance": [
+   "readme-table",
+   "tools.json"
+  ],
+  "CLI email header parser + OSINT": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email header forensics": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email header analysis CLI": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email exposure analysis": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email OSINT gathering": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Find professional emails": [
+   "readme-table"
+  ],
+  "Email, domain & URL search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email reputation lookup": [
+   "readme-table"
+  ],
+  "Get info linked to email": [
+   "readme-table"
+  ],
+  "Email open tracking + geolocation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email finder & verifier": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email header analysis & DNS checks": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email alias service for OSINT": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email validation tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Find anyone's email": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Basic scan": [
+   "readme-heading"
+  ],
+  "With API keys (unlocks more breach sources)": [
+   "readme-heading"
+  ],
+  "Create config.ini with your API keys from HIBP, BreachDirectory, etc.": [
+   "readme-heading"
+  ],
+  "3. Phone Number OSINT": [
+   "readme-heading"
+  ],
+  "Advanced phone number scanner": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Check phone registrations on sites": [
+   "readme-table",
+   "tools.json"
+  ],
+  "See how number is saved by others": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Phone number validation API": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Caller ID & spam lookup": [
+   "readme-table"
+  ],
+  "Phone number lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Reverse phone lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free reverse phone lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Phone owner lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Russian phone directory": [
+   "readme-table",
+   "tools.json"
+  ],
+  "HLR phone number lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "ADB-based phone exploitation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Binary install (Kali Linux)": [
+   "readme-heading"
+  ],
+  "Open web UI at localhost:8080": [
+   "readme-heading"
+  ],
+  "Scan from CLI": [
+   "readme-heading"
+  ],
+  "pip install (alternative)": [
+   "readme-heading"
+  ],
+  "In-depth DNS enumeration": [
+   "readme-table"
+  ],
+  "Fast passive subdomain discovery": [
+   "readme-table",
+   "tools.json"
+  ],
+  "DNS enumeration": [
+   "readme-table"
+  ],
+  "Subdomain enumeration": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Certificate transparency search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Internet-connected device search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Internet-wide scan search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AI-powered cyber threat intelligence": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Domain/IP/file analysis": [
+   "readme-table",
+   "tools.json"
+  ],
+  "DNS & domain intelligence": [
+   "readme-table",
+   "tools.json"
+  ],
+  "IP address geolocation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Network scanner & mapper": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fastest internet port scanner": [
+   "readme-table",
+   "tools.json"
+  ],
+  "WHOIS domain lookup": [
+   "readme-table"
+  ],
+  "Multiple DNS tools": [
+   "readme-table"
+  ],
+  "DNS reconnaissance & mapping": [
+   "readme-table",
+   "tools.json"
+  ],
+  "DNS lookup visualization": [
+   "readme-table",
+   "tools.json"
+  ],
+  "IP registration database": [
+   "readme-table",
+   "tools.json"
+  ],
+  "URL/domain analysis & screenshots": [
+   "readme-table",
+   "tools.json"
+  ],
+  "IP address reputation database": [
+   "readme-table",
+   "tools.json"
+  ],
+  "All-in-one website analysis": [
+   "readme-table",
+   "tools.json"
+  ],
+  "IP address data & geolocation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "IP geolocation database": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Step 1: Enumerate subdomains passively (fast)": [
+   "readme-heading"
+  ],
+  "Step 2: Deep active enumeration (slower but more complete)": [
+   "readme-heading"
+  ],
+  "Step 3: Combine and deduplicate": [
+   "readme-heading"
+  ],
+  "Step 4: Check which subdomains are live": [
+   "readme-heading"
+  ],
+  "Step 5: Screenshot all live hosts": [
+   "readme-heading"
+  ],
+  "5. Geolocation & Maps OSINT": [
+   "readme-heading"
+  ],
+  "Advanced satellite imagery": [
+   "readme-table",
+   "tools.json"
+  ],
+  "OpenStreetMap data query": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Sun position/time calculator from photos": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Geolocation training game": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Satellite imagery access": [
+   "readme-table"
+  ],
+  "NASA fire/thermal hotspots": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Collaborative world map": [
+   "readme-table"
+  ],
+  "Free world map": [
+   "readme-table"
+  ],
+  "AI-powered image geolocation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Street-level imagery": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Commercial satellite imagery": [
+   "readme-table",
+   "tools.json"
+  ],
+  "3D interactive world map": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Real-time satellite & weather": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Street-level imagery (OpenStreetCam)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Shadow analysis for time estimation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Brazil crime + accidents open data by neighborhood (bairro-level RS; municipal MG/RJ; PRF accidents)": [
+   "readme-table"
+  ],
+  "6. Image & Video OSINT": [
+   "readme-heading"
+  ],
+  "Reverse image search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Google image search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Best reverse image search for faces/places": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Image/document metadata extraction": [
+   "readme-table"
+  ],
+  "Metadata extraction from documents": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Video verification toolkit": [
+   "readme-table"
+  ],
+  "Image forensic analysis (ELA)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AI-based fake image detection": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Multi-engine reverse image (browser ext)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Recover pixelated text from screenshots": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Online image forensics suite": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Detect AI-generated images": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AI content detection": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AI image detection": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Basic metadata read": [
+   "readme-heading"
+  ],
+  "Extract GPS coordinates specifically": [
+   "readme-heading"
+  ],
+  "Strip ALL metadata (for privacy)": [
+   "readme-heading"
+  ],
+  "Show all metadata groups": [
+   "readme-heading"
+  ],
+  "Batch process a whole folder": [
+   "readme-heading"
+  ],
+  "7. Facial Recognition & People Search": [
+   "readme-heading"
+  ],
+  "AI-powered reverse face search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Face recognition search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Face search engine from photos": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Face search in VK/OK social networks": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Python face recognition library": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AI face analysis (age, gender, emotion)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free people search": [
+   "readme-table"
+  ],
+  "Deep people search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "People search & background check": [
+   "readme-table",
+   "tools.json"
+  ],
+  "People search aggregator": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free people finder": [
+   "readme-table",
+   "tools.json"
+  ],
+  "People search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "People search + social media lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free people search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "8. Social Media Monitoring": [
+   "readme-heading"
+  ],
+  "Instagram OSINT tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Instagram data downloader": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Async Instagram downloader with HikerAPI and optional aiograpi backends": [
+   "readme-table"
+  ],
+  "Interactive Instagram OSINT CLI with REPL, snapshots, diffs, and Maltego exports": [
+   "readme-table"
+  ],
+  "Twitter OSINT (no API needed)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Social media scraper (Twitter, Reddit, etc.)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Instagram OSINT by phone/email": [
+   "readme-table",
+   "tools.json"
+  ],
+  "TikTok data extraction": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Reddit user analysis": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Social media presence checker": [
+   "readme-table"
+  ],
+  "Telegram OSINT analysis": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Find deleted tweets": [
+   "readme-table",
+   "tools.json"
+  ],
+  "X/Twitter data API & MCP skill": [
+   "readme-table"
+  ],
+  "Social media analytics": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free social media search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Social media monitoring": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Social listening platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "9. Data Breach & Leak Search Engines": [
+   "readme-heading"
+  ],
+  "Check email/phone in breaches": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Breach search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email/username/phone breach search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search breaches, darknet, leaks": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free breach search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search leaked databases": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Breach data search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Leak search engine (15B+ accounts)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Data breach lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Infostealer intelligence & breach data": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Automated breach hunting CLI": [
+   "readme-table"
+  ],
+  "Breach exposure check": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Breach notification service": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Ransomware & data leak monitoring": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Dark web breach database (Tor)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email, username & phone breach lookup — fast results with real data": [
+   "readme-table"
+  ],
+  "Start Tor service first": [
+   "readme-heading"
+  ],
+  "Clone pwndb": [
+   "readme-heading"
+  ],
+  "Install requirements": [
+   "readme-heading"
+  ],
+  "The .onion address (open in Tor Browser)": [
+   "readme-heading"
+  ],
+  "10. WikiLeaks, DDoSecrets & Whistleblower Platforms": [
+   "readme-heading"
+  ],
+  "Leaked government & corporate documents": [
+   "readme-table"
+  ],
+  "Distributed Denial of Secrets": [
+   "readme-table"
+  ],
+  "Documents archive since 1996": [
+   "readme-table"
+  ],
+  "Investigative journalism": [
+   "readme-table"
+  ],
+  "Whistleblower submission system": [
+   "readme-table"
+  ],
+  "Panama Papers, Pandora Papers": [
+   "readme-table"
+  ],
+  "Public document research": [
+   "readme-table"
+  ],
+  "Web archive": [
+   "readme-table"
+  ],
+  "FBI electronic reading room": [
+   "readme-table"
+  ],
+  "Declassified CIA documents": [
+   "readme-table"
+  ],
+  "NSA declassified records": [
+   "readme-table"
+  ],
+  "US federal court records": [
+   "readme-table",
+   "tools.json"
+  ],
+  "11. Password Cracking & Credential Tools": [
+   "readme-heading"
+  ],
+  "Advanced password recovery (GPU-accelerated)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Classic password cracker": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Network login brute-forcer": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Parallel brute-force tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Custom wordlist generator from website": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Pattern-based wordlist generator": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Rainbow table cracker": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Windows password cracker (rainbow tables)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Credentials recovery tool (post-exploit)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Windows credential dumper": [
+   "readme-table",
+   "tools.json"
+  ],
+  "LLMNR/NBT-NS/MDNS poisoner": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Crack MD5 hash with wordlist": [
+   "readme-heading"
+  ],
+  "Crack SHA-256 with rules": [
+   "readme-heading"
+  ],
+  "Common hash types:": [
+   "readme-heading"
+  ],
+  "-m 1800 = SHA-512crypt (Linux)": [
+   "readme-heading"
+  ],
+  "-m 1000 = NTLM (Windows)": [
+   "readme-heading"
+  ],
+  "-m 2500 = WPA/WPA2 (Wi-Fi)": [
+   "readme-heading"
+  ],
+  "12. Dark Web Search Engines & Tools": [
+   "readme-heading"
+  ],
+  "Oldest & largest dark web search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Dark web search with filtering": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Clearnet dark web search": [
+   "readme-table"
+  ],
+  "Private search on Tor": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Dark web search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Dark web search API (clearnet)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Scan & analyze .onion sites": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Verified dark web links directory": [
+   "readme-table",
+   "tools.json"
+  ],
+  "OSINT tool with Tor support": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Install Tor": [
+   "readme-heading"
+  ],
+  "Start Tor service": [
+   "readme-heading"
+  ],
+  "Test Tor is working": [
+   "readme-heading"
+  ],
+  "Use proxychains with any tool": [
+   "readme-heading"
+  ],
+  "Make sure this line is present: socks5 127.0.0.1 9050": [
+   "readme-heading"
+  ],
+  "13. Anonymous & Privacy Tools": [
+   "readme-heading"
+  ],
+  "Anonymous web browsing": [
+   "readme-table"
+  ],
+  "Amnesic live OS (no trace)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Anonymous OS via Tor (VM-based)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free encrypted VPN": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Encrypted email": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Encrypted messaging": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Anonymous file sharing via Tor": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Anonymize entire OS traffic": [
+   "readme-table"
+  ],
+  "Change/spoof MAC address": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Digital footprint cleaner": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Disk encryption": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Offline password manager": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Privacy VPN (no email needed)": [
+   "readme-table"
+  ],
+  "Anonymous SMS sending": [
+   "readme-table",
+   "tools.json"
+  ],
+  "14. Web Application OSINT & Scanning": [
+   "readme-heading"
+  ],
+  "Web server vulnerability scanner": [
+   "readme-table",
+   "tools.json"
+  ],
+  "WordPress vulnerability scanner": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Technology profiler (browser ext)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web technology identifier": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web directory brute-forcer": [
+   "readme-table",
+   "tools.json"
+  ],
+  "URI/DNS brute-forcer (Go)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fast recursive content discovery": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fast HTTP toolkit / probing": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web crawler": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Discover endpoints in JavaScript": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web crawler for OSINT data": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web fuzzer": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Parameter discovery from web archives": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web hacking toolkit": [
+   "readme-table",
+   "tools.json"
+  ],
+  "15. Social Engineering & Phishing": [
+   "readme-heading"
+  ],
+  "Enterprise phishing simulation platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "30+ phishing templates": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Multi-platform phishing tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Access webcam/mic/location (SE)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Man-in-the-middle reverse proxy": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Reverse proxy phishing framework": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Phishing campaign toolkit": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Social media phishing": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Advanced phishing tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "URL masking tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Select template from menu (Facebook, Google, Instagram, etc.)": [
+   "readme-heading"
+  ],
+  "Tool generates a phishing URL with Cloudflare/Serveo tunnel": [
+   "readme-heading"
+  ],
+  "Captured credentials are saved locally": [
+   "readme-heading"
+  ],
+  "16. Vulnerability Scanning & Exploitation": [
+   "readme-heading"
+  ],
+  "Industry-standard pen testing framework": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Template-based fast vulnerability scanner": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Automated SQL injection tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web app security testing proxy": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Open-source web app scanner": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Open-source vulnerability scanner": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Command injection exploiter": [
+   "readme-table",
+   "tools.json"
+  ],
+  "HTTP DoS tool (authorized load testing)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Exploit database (searchsploit)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Vulnerability & CVE search": [
+   "readme-table"
+  ],
+  "17. Network & Wireless Tools": [
+   "readme-heading"
+  ],
+  "Network protocol analyzer": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Wi-Fi security auditing suite": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Wireless network detector & sniffer": [
+   "readme-table",
+   "tools.json"
+  ],
+  "MITM framework (ARP, DNS, HTTP)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "MITM attack suite": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Automated Wi-Fi auditing tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "WPS brute force tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "GUI-based Wi-Fi audit tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Wi-Fi social engineering (evil twin)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Wi-Fi packet capture conversion": [
+   "readme-table",
+   "tools.json"
+  ],
+  "The TCP/IP swiss army knife": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Command-line packet analyzer": [
+   "readme-table",
+   "tools.json"
+  ],
+  "18. Mobile Hacking & Phone Exploitation": [
+   "readme-heading"
+  ],
+  "Android remote access tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Android APK decompiler/rebuilder": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Android APK decompiler (GUI)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Dynamic instrumentation toolkit": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Runtime mobile exploration": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Mobile Security Framework (static+dynamic)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "MSF payload creator": [
+   "readme-table",
+   "tools.json"
+  ],
+  "19. AI-Powered OSINT & Free AI Tools": [
+   "readme-heading"
+  ],
+  "AI-Powered OSINT Tools": [
+   "readme-heading"
+  ],
+  "AI geolocation from images": [
+   "readme-table"
+  ],
+  "Face analysis (age, gender, emotion)": [
+   "readme-table"
+  ],
+  "Computer vision library": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AI-enhanced Burp Suite extension": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Detect AI-generated content": [
+   "readme-table"
+  ],
+  "AI browser agent for OSINT": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free AI Tools for OSINT Research": [
+   "readme-heading"
+  ],
+  "Best for reasoning & analysis": [
+   "readme-table",
+   "tools.json"
+  ],
+  "OpenAI's AI assistant": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AI search with cited sources": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Google AI with web search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Open-source, strong reasoning": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Real-time X/Twitter data": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AI with Bing search integration": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Google's document analysis AI": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AI search for developers": [
+   "readme-table",
+   "tools.json"
+  ],
+  "20. Financial & Corporate Intelligence": [
+   "readme-heading"
+  ],
+  "Global corporate database": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Panama/Pandora/Paradise Papers": [
+   "readme-table",
+   "tools.json"
+  ],
+  "US company filings": [
+   "readme-table",
+   "tools.json"
+  ],
+  "UK company register": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Global corporate & public records": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Bitcoin address investigator": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Bitcoin explorer": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Ethereum blockchain explorer": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Bank card BIN lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Company/startup database": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Legal Entity Identifier lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "21. Vehicle, Property & Public Records": [
+   "readme-heading"
+  ],
+  "Free VIN decoder": [
+   "readme-table"
+  ],
+  "Vehicle history reports": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Stolen vehicle check": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Property records & estimates": [
+   "readme-table",
+   "tools.json"
+  ],
+  "NYC landlord portfolio lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Freedom of Information Act portal": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free US court opinion search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "22. Metadata & Digital Forensics": [
+   "readme-heading"
+  ],
+  "Full digital forensics platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Memory forensics framework": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Network packet analysis": [
+   "readme-table"
+  ],
+  "Firmware analysis & extraction": [
+   "readme-table",
+   "tools.json"
+  ],
+  "File carving (recover deleted files)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Extract features from disk images": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Complete metadata extraction": [
+   "readme-table"
+  ],
+  "Document metadata harvester": [
+   "readme-table"
+  ],
+  "Data analysis swiss army knife": [
+   "readme-table",
+   "tools.json"
+  ],
+  "File carving tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "23. IP Camera & Webcam OSINT": [
+   "readme-heading"
+  ],
+  "Shodan Searches for Exposed Cameras": [
+   "readme-heading"
+  ],
+  "Webcams indexed by Shodan": [
+   "readme-table"
+  ],
+  "RTSP cameras with screenshots": [
+   "readme-table"
+  ],
+  "Yawcam webcams": [
+   "readme-table"
+  ],
+  "WebcamXP servers": [
+   "readme-table"
+  ],
+  "Blue Iris CCTV": [
+   "readme-table"
+  ],
+  "Dahua DVR systems": [
+   "readme-table"
+  ],
+  "Web-accessible DVR": [
+   "readme-table"
+  ],
+  "Google Dorks for Camera Discovery": [
+   "readme-heading"
+  ],
+  "Axis network cameras": [
+   "readme-table"
+  ],
+  "CGI video streams": [
+   "readme-table"
+  ],
+  "AXIS cameras": [
+   "readme-table"
+  ],
+  "Mobotix cameras": [
+   "readme-table"
+  ],
+  "24. Google Dorking Bible": [
+   "readme-heading"
+  ],
+  "Core Operators": [
+   "readme-heading"
+  ],
+  "Search within a domain": [
+   "readme-table"
+  ],
+  "Search in URL path": [
+   "readme-table"
+  ],
+  "Search in page title": [
+   "readme-table"
+  ],
+  "Search in page body": [
+   "readme-table"
+  ],
+  "Search by file type": [
+   "readme-table"
+  ],
+  "View Google's cached version": [
+   "readme-table"
+  ],
+  "All terms in page body": [
+   "readme-table"
+  ],
+  "High-Value OSINT Dorks": [
+   "readme-heading"
+  ],
+  "Google Dork": [
+   "readme-table"
+  ],
+  "intitle:\"index of\" \"passwords.txt\"": [
+   "readme-table"
+  ],
+  "filetype:sql \"CREATE TABLE\" \"INSERT INTO\"": [
+   "readme-table"
+  ],
+  "ext:conf OR ext:cnf \"password\"": [
+   "readme-table"
+  ],
+  "intitle:\"index of\" \".env\"": [
+   "readme-table"
+  ],
+  "intitle:\"index of\" inurl:ftp": [
+   "readme-table"
+  ],
+  "intitle:\"index of\" \".git\"": [
+   "readme-table"
+  ],
+  "filetype:pem \"PRIVATE KEY\"": [
+   "readme-table"
+  ],
+  "ext:php intitle:phpinfo": [
+   "readme-table"
+  ],
+  "filetype:log \"password\" OR \"username\"": [
+   "readme-table"
+  ],
+  "Dork Generator Tools": [
+   "readme-heading"
+  ],
+  "25. Credential & Data Dorking": [
+   "readme-heading"
+  ],
+  "allintext:\"@gmail.com\" \"password\" filetype:xlsx": [
+   "readme-table"
+  ],
+  "filetype:csv \"email\" \"password\"": [
+   "readme-table"
+  ],
+  "filetype:txt \"username\" \"password\" site:pastebin.com": [
+   "readme-table"
+  ],
+  "filetype:sql \"INSERT INTO\" \"password\" \"email\"": [
+   "readme-table"
+  ],
+  "filetype:env \"DB_PASSWORD\" OR \"API_KEY\" OR \"SECRET\"": [
+   "readme-table"
+  ],
+  "filetype:htpasswd htpasswd": [
+   "readme-table"
+  ],
+  "inurl:phpmyadmin/index.php intitle:\"phpMyAdmin\"": [
+   "readme-table"
+  ],
+  "intitle:\"Dashboard [Jenkins]\" inurl:\"/login\"": [
+   "readme-table"
+  ],
+  "filetype:pem \"AKIA\" OR \"ASIA\"": [
+   "readme-table"
+  ],
+  "site:github.com \"API_KEY\" OR \"api_secret\" filetype:env": [
+   "readme-table"
+  ],
+  "26. IP Tracking & Geolocation Links": [
+   "readme-heading"
+  ],
+  "IP grabber & URL shortener": [
+   "readme-table",
+   "tools.json"
+  ],
+  "IP logging URL shortener": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Tracking tokens (URL, email, DNS, files)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "IP address data API": [
+   "readme-table"
+  ],
+  "IP geolocation API": [
+   "readme-table",
+   "tools.json"
+  ],
+  "27. Telegram OSINT Bots & Channels": [
+   "readme-heading"
+  ],
+  "OSINT Bots": [
+   "readme-heading"
+  ],
+  "Person lookup by phone/email/photo/VK": [
+   "readme-table"
+  ],
+  "Search email by phone number": [
+   "readme-table"
+  ],
+  "Multi-search OSINT bot": [
+   "readme-table"
+  ],
+  "Phone number caller ID": [
+   "readme-table"
+  ],
+  "Fast person lookup": [
+   "readme-table"
+  ],
+  "Check Telegram account creation date": [
+   "readme-table"
+  ],
+  "Check username history of TG accounts": [
+   "readme-table"
+  ],
+  "OSINT Channels": [
+   "readme-heading"
+  ],
+  "Social engineering techniques": [
+   "readme-table"
+  ],
+  "Cybersecurity news & tools": [
+   "readme-table"
+  ],
+  "OSINT community": [
+   "readme-table"
+  ],
+  "Telegram Scraping Tools": [
+   "readme-heading"
+  ],
+  "Python Telegram API library": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Telegram profile investigation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "28. Russian OSINT & Person Lookup Services": [
+   "readme-heading"
+  ],
+  "**FNS (Tax Service)**": [
+   "readme-table"
+  ],
+  "**TelPoisk**": [
+   "readme-table"
+  ],
+  "**GetContact**": [
+   "readme-table"
+  ],
+  "**Eye of God**": [
+   "readme-table"
+  ],
+  "**Search4faces**": [
+   "readme-table"
+  ],
+  "**GetNotify**": [
+   "readme-table"
+  ],
+  "**BinCheck**": [
+   "readme-table"
+  ],
+  "VK (VKontakte) OSINT": [
+   "readme-heading"
+  ],
+  "29. Social Media Searcher Platforms": [
+   "readme-heading"
+  ],
+  "Real-time social media search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Social media aggregator": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free web monitoring": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Facebook keyword search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Social media & web monitoring": [
+   "readme-table"
+  ],
+  "Social listening & analytics": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Social intelligence platform": [
+   "readme-table"
+  ],
+  "Social media management": [
+   "readme-table",
+   "tools.json"
+  ],
+  "30. Termux Hacking Toolkit (Complete)": [
+   "readme-heading"
+  ],
+  "Initial Setup": [
+   "readme-heading"
+  ],
+  "First-time Termux setup": [
+   "readme-heading"
+  ],
+  "Tool List": [
+   "readme-heading"
+  ],
+  "**Sherlock**": [
+   "readme-table"
+  ],
+  "**Maigret**": [
+   "readme-table"
+  ],
+  "**h8mail**": [
+   "readme-table"
+  ],
+  "**Zphisher**": [
+   "readme-table"
+  ],
+  "**NexPhisher**": [
+   "readme-table"
+  ],
+  "**Storm-Breaker**": [
+   "readme-table"
+  ],
+  "**UserRecon**": [
+   "readme-table"
+  ],
+  "**IPGeoLocation**": [
+   "readme-table"
+  ],
+  "**Orbit**": [
+   "readme-table"
+  ],
+  "**Nmap**": [
+   "readme-table"
+  ],
+  "**Hydra**": [
+   "readme-table"
+  ],
+  "**PhoneSploit**": [
+   "readme-table"
+  ],
+  "**fsociety**": [
+   "readme-table"
+  ],
+  "31. Kali Linux OSINT Toolkit": [
+   "readme-heading"
+  ],
+  "Network scanning": [
+   "readme-table"
+  ],
+  "Packet analysis": [
+   "readme-table"
+  ],
+  "SQL injection": [
+   "readme-table"
+  ],
+  "Brute force": [
+   "readme-table"
+  ],
+  "Password cracking": [
+   "readme-table"
+  ],
+  "GPU password cracking": [
+   "readme-table"
+  ],
+  "Web scanner": [
+   "readme-table"
+  ],
+  "Directory brute force": [
+   "readme-table"
+  ],
+  "WordPress scanner": [
+   "readme-table"
+  ],
+  "Email/subdomain OSINT": [
+   "readme-table"
+  ],
+  "Visual link analysis": [
+   "readme-table"
+  ],
+  "Web recon framework": [
+   "readme-table"
+  ],
+  "Social engineering toolkit": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web proxy": [
+   "readme-table"
+  ],
+  "Quick Kali Setup (additional tools)": [
+   "readme-heading"
+  ],
+  "From this repo's installer (recommended — installs everything)": [
+   "readme-heading"
+  ],
+  "Or add specific tools manually:": [
+   "readme-heading"
+  ],
+  "32. All-in-One Hacking Frameworks": [
+   "readme-heading"
+  ],
+  "Mr. Robot-inspired hacking pack": [
+   "readme-table"
+  ],
+  "All-in-one tool (100+ categories)": [
+   "readme-table"
+  ],
+  "OSINT automation platform": [
+   "readme-table"
+  ],
+  "Visual OSINT & link analysis": [
+   "readme-table"
+  ],
+  "Module-based recon framework": [
+   "readme-table"
+  ],
+  "Automated pentest helper": [
+   "readme-table"
+  ],
+  "Full automated recon workflow": [
+   "readme-table"
+  ],
+  "33. Wordlist Generation & Brute Force": [
+   "readme-heading"
+  ],
+  "Custom wordlist from any website": [
+   "readme-table"
+  ],
+  "Profile-based wordlist generator": [
+   "readme-table",
+   "tools.json"
+  ],
+  "The ultimate security wordlist collection": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Classic leaked password list": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Massive wordlist collection": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Use RockYou (already in Kali)": [
+   "readme-heading"
+  ],
+  "Generate a pattern-based wordlist with Crunch": [
+   "readme-heading"
+  ],
+  "Format: crunch <min> <max> <charset>": [
+   "readme-heading"
+  ],
+  "Generate custom wordlist from a target website": [
+   "readme-heading"
+  ],
+  "Profile-based wordlist (interview the target)": [
+   "readme-heading"
+  ],
+  "34. Hardware Hacking Tools": [
+   "readme-heading"
+  ],
+  "Multi-tool: RFID, NFC, IR, Sub-GHz, BadUSB": [
+   "readme-table"
+  ],
+  "Software-defined radio (1MHz–6GHz)": [
+   "readme-table"
+  ],
+  "RFID/NFC research & cloning tool": [
+   "readme-table"
+  ],
+  "USB keystroke injection device": [
+   "readme-table"
+  ],
+  "Multi-function USB attack platform": [
+   "readme-table"
+  ],
+  "Covert network access & MITM": [
+   "readme-table"
+  ],
+  "Budget software-defined radio dongle": [
+   "readme-table"
+  ],
+  "Long-range dual-band Wi-Fi adapter": [
+   "readme-table"
+  ],
+  "USB cable with embedded implant": [
+   "readme-table"
+  ],
+  "35. OSINT Operating Systems": [
+   "readme-heading"
+  ],
+  "Penetration testing (600+ tools)": [
+   "readme-table"
+  ],
+  "Privacy & anonymity (amnesic)": [
+   "readme-table"
+  ],
+  "Anonymous OS via Tor": [
+   "readme-table"
+  ],
+  "OSINT & forensics focused": [
+   "readme-table"
+  ],
+  "2800+ security tools": [
+   "readme-table"
+  ],
+  "SANS digital forensics": [
+   "readme-table"
+  ],
+  "Malware analysis": [
+   "readme-table"
+  ],
+  "Security via compartmentalization": [
+   "readme-table"
+  ],
+  "Windows pentest VM": [
+   "readme-table"
+  ],
+  "36. OSINT APIs & Developer Tools": [
+   "readme-heading"
+  ],
+  "IoT/device search": [
+   "readme-table"
+  ],
+  "File/URL analysis": [
+   "readme-table"
+  ],
+  "Email discovery": [
+   "readme-table"
+  ],
+  "Breach check": [
+   "readme-table"
+  ],
+  "Internet scanning": [
+   "readme-table"
+  ],
+  "Repository/user data": [
+   "readme-table"
+  ],
+  "Breach data search": [
+   "readme-table"
+  ],
+  "URL analysis": [
+   "readme-table"
+  ],
+  "Programmable search": [
+   "readme-table"
+  ],
+  "Domain intelligence": [
+   "readme-table"
+  ],
+  "Threat intelligence": [
+   "readme-table"
+  ],
+  "37. Browser Extensions for OSINT": [
+   "readme-heading"
+  ],
+  "Multi-engine reverse image search": [
+   "readme-table"
+  ],
+  "Technology stack detector": [
+   "readme-table"
+  ],
+  "Server info on any website": [
+   "readme-table"
+  ],
+  "View archived pages instantly": [
+   "readme-table"
+  ],
+  "View image metadata": [
+   "readme-table"
+  ],
+  "Change browser identity": [
+   "readme-table"
+  ],
+  "Proxy management": [
+   "readme-table"
+  ],
+  "OSINT web capture & case manager": [
+   "readme-table"
+  ],
+  "Video/image verification": [
+   "readme-table"
+  ],
+  "Save complete web pages": [
+   "readme-table"
+  ],
+  "38. OSINT Learning Resources": [
+   "readme-heading"
+  ],
+  "Interactive tool directory": [
+   "readme-table"
+  ],
+  "Michael Bazzell's resources & podcast": [
+   "readme-table"
+  ],
+  "OSINT investigative journalism": [
+   "readme-table"
+  ],
+  "OSINT for missing persons CTFs": [
+   "readme-table"
+  ],
+  "Weekly OSINT newsletter": [
+   "readme-table"
+  ],
+  "Training platform & challenges": [
+   "readme-table"
+  ],
+  "Hands-on CTF competitions": [
+   "readme-table"
+  ],
+  "Global Investigative Journalism Network": [
+   "readme-table"
+  ],
+  "Professional cyber training": [
+   "readme-table"
+  ],
+  "📺 YouTube Channels": [
+   "readme-heading"
+  ],
+  "Ethical hacking": [
+   "readme-table"
+  ],
+  "Cybersecurity tutorials": [
+   "readme-table"
+  ],
+  "Penetration testing": [
+   "readme-table"
+  ],
+  "Hacking tutorials": [
+   "readme-table"
+  ],
+  "39. Awesome OSINT GitHub Repos": [
+   "readme-heading"
+  ],
+  "40. One-Click Install Scripts": [
+   "readme-heading"
+  ],
+  "🐉 Kali Linux — Full Arsenal": [
+   "readme-heading"
+  ],
+  "Option 1: Direct from this repo (one command)": [
+   "readme-heading"
+  ],
+  "Option 2: Clone first (recommended — inspect before running)": [
+   "readme-heading"
+  ],
+  "📱 Termux (Android)": [
+   "readme-heading"
+  ],
+  "🔧 Manual Kali Snippet": [
+   "readme-heading"
+  ],
+  "41. Top 50 Must-Have Tools (Quick Reference)": [
+   "readme-heading"
+  ],
+  "**Holehe**": [
+   "readme-table"
+  ],
+  "**theHarvester**": [
+   "readme-table"
+  ],
+  "**PhoneInfoga**": [
+   "readme-table"
+  ],
+  "**Amass**": [
+   "readme-table"
+  ],
+  "**Subfinder**": [
+   "readme-table"
+  ],
+  "**Nuclei**": [
+   "readme-table"
+  ],
+  "**SQLMap**": [
+   "readme-table"
+  ],
+  "**Metasploit**": [
+   "readme-table"
+  ],
+  "**Hashcat**": [
+   "readme-table"
+  ],
+  "**Wireshark**": [
+   "readme-table"
+  ],
+  "**Aircrack-ng**": [
+   "readme-table"
+  ],
+  "**Burp Suite**": [
+   "readme-table"
+  ],
+  "**SpiderFoot**": [
+   "readme-table"
+  ],
+  "**Maltego**": [
+   "readme-table"
+  ],
+  "**Recon-ng**": [
+   "readme-table"
+  ],
+  "**PimEyes**": [
+   "readme-table"
+  ],
+  "**Shodan**": [
+   "readme-table"
+  ],
+  "**Censys**": [
+   "readme-table"
+  ],
+  "**ExifTool**": [
+   "readme-table"
+  ],
+  "**Autopsy**": [
+   "readme-table"
+  ],
+  "**Volatility**": [
+   "readme-table"
+  ],
+  "**Tor Browser**": [
+   "readme-table"
+  ],
+  "**DeHashed**": [
+   "readme-table"
+  ],
+  "**Have I Been Pwned**": [
+   "readme-table"
+  ],
+  "**Hackingtool**": [
+   "readme-table"
+  ],
+  "**SecLists**": [
+   "readme-table"
+  ],
+  "**Osintgram**": [
+   "readme-table"
+  ],
+  "**VirusTotal**": [
+   "readme-table"
+  ],
+  "**Canary Tokens**": [
+   "readme-table"
+  ],
+  "**CyberChef**": [
+   "readme-table"
+  ],
+  "**DeepFace**": [
+   "readme-table"
+  ],
+  "**dnsrecon**": [
+   "readme-table"
+  ],
+  "**Gobuster**": [
+   "readme-table"
+  ],
+  "**HTTPx**": [
+   "readme-table"
+  ],
+  "**EyeWitness**": [
+   "readme-table"
+  ],
+  "**Responder**": [
+   "readme-table"
+  ],
+  "**Bettercap**": [
+   "readme-table"
+  ],
+  "**Photon**": [
+   "readme-table"
+  ],
+  "**Perplexity AI**": [
+   "readme-table"
+  ],
+  "**GeoSpy**": [
+   "readme-table"
+  ],
+  "**osmedeus**": [
+   "readme-table"
+  ],
+  "**trufflehog**": [
+   "readme-table"
+  ],
+  "42. ⚔️ Red Team & Offensive Security": [
+   "readme-heading"
+  ],
+  "Comprehensive Active Directory attack reference": [
+   "readme-table",
+   "tools.json"
+  ],
+  "HTTP parameter discovery suite": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AD attack-path graph analysis": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Community Edition of BloodHound — modernized stack": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Premium C2 with strong AV/EDR evasion": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Active Directory Certificate Services enumeration and abuse": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Premium adversary simulation / red team framework": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Post-exploitation tool for AD networks": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fast CRLF-injection scanner in Go": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fast, intelligent XSS scanner": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Ultimate WinRM shell for hacking/pentesting": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Advanced cross-platform tool to detect/exploit SQLi": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Test parameters for cross-site scripting reflection": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Pentesting / hacking knowledge base by carlospolop": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Modern, malleable post-exploitation C2 framework": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Python classes for working with network protocols (Windows attacks)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Tool for performing Kerberos pre-auth bruteforcing": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Contextual content-discovery for modern API endpoints": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Cross-platform HTTP/2 post-exploitation server and agent in Go": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Industry-standard exploitation framework with 2000+ modules": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Cross-platform, post-exploit, multi-user red team framework": [
+   "readme-table",
+   "tools.json"
+  ],
+  "CrackMapExec maintained successor — AD network exploitation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Premium evasive C2 by MDSec (Cobalt Strike alt)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Automated NoSQL database enumeration and exploitation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Community-curated templates for Nuclei": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Discover hidden, unlinked HTTP parameters in Burp": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web app pentest payloads, bypasses, and methodology": [
+   "readme-table",
+   "tools.json"
+  ],
+  "PoC tool to coerce Windows hosts to authenticate to attacker": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Post-exploitation framework with PS-based agents": [
+   "readme-table",
+   "tools.json"
+  ],
+  "C# toolset for raw Kerberos interaction and abuse": [
+   "readme-table",
+   "tools.json"
+  ],
+  "C# data collector for BloodHound": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Open-source adversary emulation/red-team framework (Cobalt Strike alt)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Automated SSRF detection and exploitation framework": [
+   "readme-table",
+   "tools.json"
+  ],
+  "High-level stage 0/1 C2 framework for handling sibling agents": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Advanced XSS scanner with crawler and payload generator": [
+   "readme-table",
+   "tools.json"
+  ],
+  "43. 🛡️ Blue Team & Defensive Security": [
+   "readme-heading"
+  ],
+  "Library of small detection-test scripts mapped to MITRE ATT&CK": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Hunt threats in Windows event logs — fast forensics": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Observable analysis and active response engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Elasticsearch + Logstash + Kibana — log analytics": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Cloud-native runtime security": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Open-source log management / SIEM": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Windows event log fast forensics timeline generator": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Simple IOC and YARA scanner by Florian Roth": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Adversary tactics, techniques, and procedures knowledge base": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Cyber adversary emulation platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Defensive countermeasure knowledge graph": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Real Intelligence Threat Analytics — beaconing/long-conn detection": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Linux distro for threat hunting, monitoring, and log management": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Generic signature format for SIEM detections": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Convert Sigma rules to native SIEM queries": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Open-source intrusion-prevention/detection system": [
+   "readme-table",
+   "tools.json"
+  ],
+  "High-perf network IDS / IPS / NSM": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Scalable, free, open-source case management for SOCs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Runtime security and forensics using eBPF (Aqua)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Endpoint visibility and digital forensics — query-driven": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Centralized server for Velociraptor agents": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Open-source XDR / SIEM platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Powerful network analysis framework for security monitoring": [
+   "readme-table",
+   "tools.json"
+  ],
+  "44. 🛰️ Threat Intel Platforms": [
+   "readme-heading"
+  ],
+  "Enterprise threat intel aggregation platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Premium adversary intel from CrowdStrike": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Brand protection + dark web monitoring (now ReliaQuest GreyMatter DRP)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "STIX/TAXII-native threat intel platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Business risk intel from criminal forums and dark web": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Premium adversary intelligence and underground monitoring platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "External threat protection and intel (now part of Rapid7)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Cybercrime intelligence and dark-web monitoring": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Threat intel from Google's Mandiant team": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Open-source CTI platform structured around STIX2": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Extended threat intel — attack surface + dark web + brand": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Threat intel platform combining intel and SOAR": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Threat intel platform for SOCs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Open distributed threat intelligence platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "45. 🔬 Digital Forensics & Reverse Engineering": [
+   "readme-heading"
+  ],
+  "Modern reverse engineering platform with API": [
+   "readme-table",
+   "tools.json"
+  ],
+  "GUI for radare2/rizin reverse-engineering": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fox-IT framework for fast forensic image analysis": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Suite of free Windows DFIR utilities": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Forensic disk imaging tool by AccessData": [
+   "readme-table",
+   "tools.json"
+  ],
+  "NSA's open-source software reverse engineering suite": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free version of IDA disassembler/decompiler": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Kroll Artifact Parser and Extractor — fast triage collection": [
+   "readme-table",
+   "tools.json"
+  ],
+  "File data recovery — focuses on multimedia": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Super-timeline creation from forensic artifacts": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Reverse engineering framework": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Open-source Windows registry parsing tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Memory forensics tooling (legacy fork of Volatility)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Modern fork of radare2 with cleaner API": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Library and CLI tools for forensic disk analysis": [
+   "readme-table",
+   "tools.json"
+  ],
+  "46. 🎓 Training, Labs & CTF": [
+   "readme-heading"
+  ],
+  "Web hacking training and labs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Calendar of upcoming and past CTF events": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free + paid cybersecurity courses": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Damn Vulnerable Web Application — classic appsec lab": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Online pentesting labs and CTFs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free HackerOne course library and CTF": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Cyber skills platform with hands-on exercises": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Intentionally vulnerable Linux VM for Metasploit practice": [
+   "readme-table",
+   "tools.json"
+  ],
+  "OSCP-style training labs by Offensive Security": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free wargames for learning offensive security from scratch": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Modern, intentionally insecure web app — covers OWASP Top 10": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Deliberately insecure Java-based web app for training": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Hands-on web-app pentesting training": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free CTF and learning platform built by CMU": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free, world-class web security training (by Burp Suite team)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free college-level cybersecurity education from ASU": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Intentionally-vulnerable web app for hands-on appsec training": [
+   "readme-table",
+   "tools.json"
+  ],
+  "500+ challenges and 100+ virtual labs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Beginner-friendly cybersecurity training platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free downloadable vulnerable VMs for offline practice": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Online platform with vulnerable boxes (free + premium)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "47. 🎯 Bug Bounty Platforms": [
+   "readme-heading"
+  ],
+  "Indian-origin bug-bounty + vulnerability disclosure platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Crowdsourced security platform — bug bounty + pentesting": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Standardized vulnerability-disclosure language and tools": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Largest bug-bounty platform — public and private programs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "European bug-bounty platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web3 / crypto-focused bug bounty platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "European bug-bounty platform with fast triage": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free coordinated-disclosure platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "ProjectDiscovery's free BBH program list": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Crowdsourced + vetted-researcher pentesting platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "European-based bug-bounty and VDP platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Premium 0day acquisition platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "48. 📚 Learning Resources": [
+   "readme-heading"
+  ],
+  "HTB writeups and pentesting writeups": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Beginner-friendly hacking learning resources": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Curated list of IR tools and resources": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Curated list of malware-analysis tools": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Massive curated list of pentesting tools and resources": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Bellingcat-curated tools and methodology guide": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Concise blue-team incident response reference": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Classic by Jon Erickson — low-level attack fundamentals": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Indexed walkthroughs of HackTheBox machines (video)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Cybersecurity YouTube — CTFs, malware, walkthroughs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "21-day Linux-for-OSINT course (free)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Hacking and security YouTube — deep technical content": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Bug bounty and offensive security YouTube content": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free OSINT automation cookbook": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Community blog, podcast, and learning resources": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Michael Bazzell's resources, books, and search tools": [
+   "readme-table",
+   "tools.json"
+  ],
+  "21-day Python-for-OSINT course (free)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Peter Yaworski — bug bounty methodology and real reports": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Concise red-team command reference": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Stuttard & Pinto — appsec bible": [
+   "readme-table",
+   "tools.json"
+  ],
+  "49. ✨ Extra Tools (curated additions)": [
+   "readme-heading"
+  ],
+  "Hunt across all abuse.ch malware platforms with one query": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Dark-web search engine by Aleph Networks": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Detect manipulated/AI-generated images": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Generates permutations, alterations and mutations of subdomains": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Append lines from stdin to a file only if not already there": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Interactive online malware sandbox": [
+   "readme-table",
+   "tools.json"
+  ],
+  "B2B phone/email finder — 1200 free credits/yr": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Spreadsheet of threat actors, sponsoring countries, TTPs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Visual inspection of websites across hosts (HTTP screenshots, attack-surface flyovers)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web archive — saves snapshots even when robots.txt blocks Wayback": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Tool for accessing large dumps of Reddit data via API/web": [
+   "readme-table",
+   "tools.json"
+  ],
+  "On-chain intel — labels, entities, historical flows": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Find domains and subdomains related to a given domain": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Multi-threaded network reconnaissance and enumeration framework": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Dynamic infra framework for parallel cloud-based recon": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Background check aggregator (BeenVerified family)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Major Chinese search engine — essential for China-focused OSINT": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search subdomains, URLs, parameters from mobile applications": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Modern BGP toolkit for network reconnaissance": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Cyber risk and attack-surface intelligence": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Blockchain data APIs for on-chain investigation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free nationwide directory of public-record lookups": [
+   "readme-table",
+   "tools.json"
+  ],
+  "32+ phishing template builder for credential capture (lab-only)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Privacy-focused browser with built-in Tor/IPFS support": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Independent, transparent, ad-free search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Status tracking for the rotating BreachForums mirrors": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free crypto investigation platform — visualize transaction flows": [
+   "readme-table",
+   "tools.json"
+  ],
+  "URL/IP/threat reputation database": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Reputation, category, and threat checks for URLs/IPs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Binance Smart Chain explorer — same UX as Etherscan": [
+   "readme-table",
+   "tools.json"
+  ],
+  "View Google/Bing/Yandex cached versions of any page": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Find social media accounts via email, username, phone": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Official Python wrapper and CLI for Censys": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fast search for public SSL/TLS certificate records": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Public crypto-scam reporting database": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Premium blockchain investigation platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search username across multiple social networks": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free public hashlookup for known software files": [
+   "readme-table",
+   "tools.json"
+  ],
+  "IP and Domain Reputation Center for real-time detection": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email finder browser extension with company data": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Internet traffic patterns, attacks, technology trends": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Find people and address information": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Boolean search builder for OSINT investigators": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Identity threat intel from breaches and dark web": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Find emails and phones for 300M+ professionals": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Identify your compromised credentials before others do": [
+   "readme-table",
+   "tools.json"
+  ],
+  "LinkedIn enumeration — generate username lists from LinkedIn profiles": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Structured Wikipedia data — SPARQL endpoint": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free username check on hundreds of sites": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web path scanner — advanced wordlist-based directory bruteforce": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Look up Discord user info via ID": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search public Discord servers and messages": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Historical DNS records lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Platform for analyzing, annotating, publishing documents": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search domains by registrant data": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Run Google dorks from the command line": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AI-powered search query generator for Google, Bing, DuckDuckGo": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Online dork builder for Google/Bing/DuckDuckGo": [
+   "readme-table",
+   "tools.json"
+  ],
+  "SQL queries over indexed blockchain data": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Crypto financial-crime detection and investigation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free email reputation API by Sublime Security": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Reverse-lookup email/phone for Google profile data": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Searchable database of 2M+ DOJ Epstein case docs and network graphs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search threat-actor groups and their tools": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Python wrapper for Etherscan API": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Historical tweet, follower, and trend export tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free genealogy search — addresses, phones, emails": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fast Go-based web fuzzer — directory, parameter, vhost discovery": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Catalog of malicious file extensions, risks, OS-level mitigations": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Cross-platform subdomain enumerator with monitoring features": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Photo-sharing — geosearch + license + camera EXIF intact": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Twitter analytics — bio, languages, hashtags, mentions": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Online image forensics — clone detection, level sweep": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Identity-resolution API and person enrichment": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fetch URLs from AlienVault OTX, Wayback, Common Crawl, URLScan": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Geolocation aggregator — pulls geotagged posts across networks": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Browser-based satellite/streetview geolocation training & investigation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Premium AI image geolocation by Graylark": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Online EXIF extractor — handles .DOCX/.PDF too": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Wrapper around grep with patterns for bug-bounty workflow": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Automated digital image forensics": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Find sensitive data exposed via GitHub code search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Real-time tracking of GitHub user activity and repo changes": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Detect secrets, credentials, and API keys in git repos": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Reference for Google search operators": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Index of dorks for finding publicly exposed info": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fast Go web spider for crawling/audit": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Modern Go-based web screenshot utility (Aquatone successor)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Index of open Amazon S3 buckets — find exposed cloud data": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Command-line tool for GreyNoise mass-scanner intel": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Tells you which IPs are noise vs targeted threats": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fast Go web crawler for endpoint and asset discovery": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Modern malware sandbox with kernel-level monitoring": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Check if a phone number is in the 533M Facebook breach": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Check if your data has been leaked by ransomware groups": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Take a list of domains and probe for working HTTP/HTTPS": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free infostealer-compromise check tools (domain/email/IP)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free advanced malware analysis service by CrowdStrike": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Data breach search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Image hosting — meme tracing and reverse search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Async Instagram downloader for profiles, posts, reels, stories, highlights, hashtags, and comments": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Real-time tracking of Instagram users with email alerts and CSV logs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Interactive Instagram OSINT CLI with snapshots, diffs, and Maltego-ready exports": [
+   "readme-table"
+  ],
+  "Selective archive search — emails, leaks, paste sites, dark-web": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Easily turn single-threaded CLI apps into multi-threaded jobs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Deep automated malware analysis (free tier)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Find JS files referenced from a URL — endpoints / API paths": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Premium privacy-respecting search engine, no ads, no tracking": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Domain knock — security testing via DNS": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Subdomain enumeration scan with virtual host discovery": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Generate usernames from a target's LinkedIn employees": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Dump/scrape company employees from LinkedIn API": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Threat-actor groups, malware families, and analysis by Fraunhofer": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free malware sample repository for researchers": [
+   "readme-table",
+   "tools.json"
+  ],
+  "High-performance DNS stub resolver for bulk lookups": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fetch many paths for many hosts without flooding": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Federated search across multiple web archives": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free online metadata extractor for any file": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Multi-engine file/URL/IP scanning by OPSWAT": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free + paid crypto transaction tracing tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Adversary group identification used by SOCs/ISACs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Browser extension for OSINT — extract IoCs from highlighted text": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free passive-DNS query tool": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Independent search engine that doesn't track users": [
+   "readme-table",
+   "tools.json"
+  ],
+  "BSSID/Wi-Fi MAC to coordinates lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fast Go-based port scanner from ProjectDiscovery": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Check domain and username across many platforms": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Check username availability across social media": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Check domain + username on popular social media": [
+   "readme-table",
+   "tools.json"
+  ],
+  "South Korean search engine — local content not on Google": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search engine for source code across the public web": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Web technology, hosting history, takedown service": [
+   "readme-table",
+   "tools.json"
+  ],
+  "OSINT framework": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search hosts, CVEs, exposed buckets — 10 free searches/day": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Panama/Pandora/Paradise Papers searchable database": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search engine for dark-web content": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Yandex/Bing/TinEye combined reverse-image search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Largest public database of cell-tower IDs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Command-line client for OpenCorporates API": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Live phishing URL feed": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Worldwide rail network map — rolling stock, infrastructure, signals": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Consolidated database of sanctioned entities across 200+ sources": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Bitcoin transaction graph explorer with clustering": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Passive DNS, WHOIS, SSL cert pivots — now Microsoft Defender TI": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Preview any URL — title, description, screenshot via API": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Live phishing intelligence feed and search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Anti-phishing community — verified phishing URLs": [
+   "readme-table",
+   "tools.json"
+  ],
+  "AI-powered photo geolocation predictor": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Visual search engine — alternate reverse-image source": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Polygon (Matic) blockchain explorer": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search social accounts by email or phone": [
+   "readme-table",
+   "tools.json"
+  ],
+  "20+ online public transport maps by country": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search the web's source code (HTML/JS/CSS) for snippets, trackers, scripts": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Index/retrieval service for Reddit (incl. deleted content)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Historical Reddit data — posts, comments, metadata": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Chinese internet asset search engine": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Public archive of PACER court documents": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Full-suite domain recon — subdomain enum, port scan, vuln scan in one pipeline": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Reddit user analysis — summary, top posts, activity stats": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search archived Reddit content via Pushshift mirror": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Discord-based account-checker & breach lookup": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Find professional emails/phones for 700M+ profiles": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Modern port scanner — finds open ports, then pipes to Nmap": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Check website trustworthiness scores": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search for documents, presentations, sheet music, ebooks": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search 75+ billion lines of public source code across GitHub/GitLab/Bitbucket": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Geolocation by phishing — collects precise GPS via WebRTC + browser geolocation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Global statistics on cyber threats by Shadowserver Foundation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Open-source image forensics toolset": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Official Shodan command-line client": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search public PowerPoint/PDF presentations": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Drop-in replacement for nmap powered by shodan.io": [
+   "readme-table",
+   "tools.json"
+  ],
+  "API access to breach data (premium)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search code from millions of open-source repos": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Account-takeover prevention + identity exposure data": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Privacy-focused search — Google results with no tracking": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search engine for finding and analyzing data breaches": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Subreddit user-overlap, growth, top posts": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Google CSE for finding public/private Telegram channels": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Find positions of nearby Telegram users via OSM": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search public Telegram messages and channels": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Telegram channel/group analytics": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Reconnaissance framework for investigating Telegram": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Telegram search engine — 10 free results": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Telegram channel analytics — post stats, audience overlap": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Curated directory of dark-web sites (mirror-dependent)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Map LinkedIn endorsements/skills to draw out person relationships": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free OSINT lookup for TikTok account country/language": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Anonymize all OS traffic via Tor (Linux)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Extract info from Telegram bots and channels": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search usernames, emails, phones across 600+ platforms with risk scoring": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Real-time public transport across 700+ cities": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Twitter trends history per country": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Crypto compliance and investigation platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Twitter/X analytics dashboards": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search live streams by category, language, viewer count": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Twitter/X advanced search wrapper — geo, date, sentiment": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Reddit user comment / submission scraper": [
+   "readme-table",
+   "tools.json"
+  ],
+  "ProjectDiscovery — quickly find exposed hosts via Shodan/Censys/Fofa": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Generate domain typos and check availability/registration": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Database of malicious URLs used for malware distribution": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search a username across 2000+ websites": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search 14 country license plates from one page": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Search for your data breaches and get notified when compromised": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Index of dumped databases (educational)": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Malware sandbox analysis platform": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Smart bitcoin block explorer — clusters addresses by entity": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fetch all URLs the Wayback Machine knows about a domain": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Reverse WHOIS — find domains by registrant": [
+   "readme-table",
+   "tools.json"
+  ],
+  "WHOIS lookup with reverse-WHOIS, history, and bulk API": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Wikipedia's structured-data backbone — query via SPARQL": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Free encyclopedia — start of every people/place investigation": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Graphic index of license plates by country": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Fetch info on Google Docs/Sheets/Slides/Drawings without auth": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Russian search engine — strong reverse-image and Cyrillic support": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Collaborative YARA engine for open threat intel via file pattern matching": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Document publishing — sometimes leaks via search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Email validation and deliverability service": [
+   "readme-table",
+   "tools.json"
+  ],
+  "Command-line interface for ZoomEye internet asset search": [
+   "readme-table",
+   "tools.json"
+  ],
+  "50. 🇬🇪 Georgian OSINT Arsenal (500+ resources)": [
+   "readme-heading"
+  ],
+  "50.1 Government Registries & E-Government Portals": [
+   "readme-heading"
+  ],
+  "Core Government Portals": [
+   "readme-heading"
+  ],
+  "Public Registries & Databases": [
+   "readme-heading"
+  ],
+  "Key my.gov.ge Services for OSINT": [
+   "readme-heading"
+  ],
+  "What You Can Find": [
+   "readme-table",
+   "readme-heading"
+  ],
+  "Real estate ownership by cadastral code": [
+   "readme-table"
+  ],
+  "Business registration status, founders, directors": [
+   "readme-table"
+  ],
+  "(Restricted) Vital records verification": [
+   "readme-table"
+  ],
+  "Submit information requests to any government body": [
+   "readme-table"
+  ],
+  "Check individual tax debts (limited)": [
+   "readme-table"
+  ],
+  "Check for enforcement proceedings against individuals": [
+   "readme-table"
+  ],
+  "Registered notaries and their activities": [
+   "readme-table"
+  ],
+  "50.2 Person Search & Identity OSINT": [
+   "readme-heading"
+  ],
+  "Phone Number & Identity Lookup": [
+   "readme-heading"
+  ],
+  "Dial 114 from Georgian number": [
+   "readme-table"
+  ],
+  "Email & Username OSINT": [
+   "readme-heading"
+  ],
+  "Georgian-Specific Person Search": [
+   "readme-heading"
+  ],
+  "~2.5M Georgian users. Search by name in Georgian script. Many profiles have phone numbers visible": [
+   "readme-table"
+  ],
+  "Popular among Russian-speaking Georgians and occupied territories": [
+   "readme-table"
+  ],
+  "Popular among older Georgian demographic": [
+   "readme-table"
+  ],
+  "Very popular in Georgia, especially ages 18-35": [
+   "readme-table"
+  ],
+  "Professional profiles, especially for business investigations": [
+   "readme-table"
+  ],
+  "\"name surname\" site:facebook.com/` or `\"name\" \"+995\"": [
+   "readme-table"
+  ],
+  "50.3 Company & Business Intelligence": [
+   "readme-heading"
+  ],
+  "Primary Business Registries": [
+   "readme-heading"
+  ],
+  "Financial & Investment Data": [
+   "readme-heading"
+  ],
+  "Company Due Diligence": [
+   "readme-heading"
+  ],
+  "NAPR extract -- shows current and historical directors": [
+   "readme-table"
+  ],
+  "rs.ge -- check if company is active taxpayer": [
+   "readme-table"
+  ],
+  "NAPR property registry -- search by company name": [
+   "readme-table"
+  ],
+  "tenders.procurement.gov.ge -- search by supplier name": [
+   "readme-table"
+  ],
+  "ecd.court.ge -- search by company name or ID": [
+   "readme-table"
+  ],
+  "opensanctions.org -- cross-reference with international sanctions": [
+   "readme-table"
+  ],
+  "OpenCorporates -- linked entities across jurisdictions": [
+   "readme-table"
+  ],
+  "50.4 Legal & Court Records": [
+   "readme-heading"
+  ],
+  "Court Databases": [
+   "readme-heading"
+  ],
+  "Key Legal Resources": [
+   "readme-heading"
+  ],
+  "Searching Court Records -- Tips": [
+   "readme-heading"
+  ],
+  "50.5 Enter case number or date range": [
+   "readme-heading"
+  ],
+  "50.6 Note: Personal data is anonymized in published decisions": [
+   "readme-heading"
+  ],
+  "50.7 For cases after April 2020 -- many are NOT published online": [
+   "readme-heading"
+  ],
+  "Property Registries": [
+   "readme-heading"
+  ],
+  "Real Estate Portals (OSINT Gold Mines)": [
+   "readme-heading"
+  ],
+  "Property OSINT Workflow": [
+   "readme-heading"
+  ],
+  "Vehicle Databases": [
+   "readme-heading"
+  ],
+  "Transport Authority Data": [
+   "readme-heading"
+  ],
+  "Georgian License Plate Format": [
+   "readme-heading"
+  ],
+  "Georgian plates follow these formats:": [
+   "readme-heading"
+  ],
+  "Note: Georgian plates use Latin letters": [
+   "readme-heading"
+  ],
+  "National Bank & Financial Regulators": [
+   "readme-heading"
+  ],
+  "Banks & Financial Institutions": [
+   "readme-heading"
+  ],
+  "Financial OSINT Searches": [
+   "readme-heading"
+  ],
+  "What You Find": [
+   "readme-table"
+  ],
+  "Tax status, registration, debts": [
+   "readme-table"
+  ],
+  "If they appear in AML sanctions": [
+   "readme-table"
+  ],
+  "International sanctions cross-reference": [
+   "readme-table"
+  ],
+  "ICIJ Offshore Leaks Database -- Georgian entities": [
+   "readme-table"
+  ],
+  "Government contracts won": [
+   "readme-table"
+  ],
+  "50.8 Election & Political Data": [
+   "readme-heading"
+  ],
+  "Central Election Commission (CEC)": [
+   "readme-heading"
+  ],
+  "Political Data Sources": [
+   "readme-heading"
+  ],
+  "cesko.ge -- full precinct-level data": [
+   "readme-table"
+  ],
+  "isfed.ge -- real-time parallel vote tabulation": [
+   "readme-table"
+  ],
+  "OSCE/ODIHR reports": [
+   "readme-table"
+  ],
+  "50.9 Maps & Geospatial Intelligence": [
+   "readme-heading"
+  ],
+  "Georgian Mapping Services": [
+   "readme-heading"
+  ],
+  "GIS Data Sources": [
+   "readme-heading"
+  ],
+  "Geolocation Tips for Georgia": [
+   "readme-heading"
+  ],
+  "Key visual identifiers for geolocating imagery in Georgia:": [
+   "readme-heading"
+  ],
+  "50.10 Media Landscape & News OSINT": [
+   "readme-heading"
+  ],
+  "Major Georgian News Sources": [
+   "readme-heading"
+  ],
+  "Investigative Journalism": [
+   "readme-heading"
+  ],
+  "50.11 Data Leaks & Breaches": [
+   "readme-heading"
+  ],
+  "Major Georgian Data Breaches": [
+   "readme-heading"
+  ],
+  "Breach Search Tools (Check Georgian Data)": [
+   "readme-heading"
+  ],
+  "Important Context": [
+   "readme-heading"
+  ],
+  "Impact: Georgian personal data (name, DOB, ID number, phone)": [
+   "readme-heading"
+  ],
+  "50.12 Phone & Telecom OSINT": [
+   "readme-heading"
+  ],
+  "Georgian Mobile Operators": [
+   "readme-heading"
+  ],
+  "Georgian Phone Number Format": [
+   "readme-heading"
+  ],
+  "Country code: +995": [
+   "readme-heading"
+  ],
+  "Format: +995 XXX XXX XXX (9 digits after country code)": [
+   "readme-heading"
+  ],
+  "Mobile prefixes:": [
+   "readme-heading"
+  ],
+  "Landline prefixes:": [
+   "readme-heading"
+  ],
+  "Emergency: 112 (universal)": [
+   "readme-heading"
+  ],
+  "Phone OSINT Techniques for Georgian Numbers": [
+   "readme-heading"
+  ],
+  "WhatsApp app": [
+   "readme-table"
+  ],
+  "Telegram app": [
+   "readme-table"
+  ],
+  "Viber app": [
+   "readme-table"
+  ],
+  "\"+995XXXXXXXXX\"": [
+   "readme-table"
+  ],
+  "50.13 Social Media & Platform OSINT": [
+   "readme-heading"
+  ],
+  "Georgian Social Media Landscape": [
+   "readme-heading"
+  ],
+  "Georgian Users (est.)": [
+   "readme-table"
+  ],
+  "Georgian Facebook OSINT": [
+   "readme-heading"
+  ],
+  "Search techniques:": [
+   "readme-heading"
+  ],
+  "Platform-Specific Tools": [
+   "readme-heading"
+  ],
+  "50.14 Open Data & Statistics Portals": [
+   "readme-heading"
+  ],
+  "National Statistics": [
+   "readme-heading"
+  ],
+  "Open Data Portals": [
+   "readme-heading"
+  ],
+  "Key Statistical Datasets": [
+   "readme-heading"
+  ],
+  "50.15 Procurement & Government Spending": [
+   "readme-heading"
+  ],
+  "Procurement Platforms": [
+   "readme-heading"
+  ],
+  "Available data:": [
+   "readme-heading"
+  ],
+  "Budget Transparency": [
+   "readme-heading"
+  ],
+  "50.16 Domain & IP & Network Intelligence": [
+   "readme-heading"
+  ],
+  "Georgian ASN & Network Data": [
+   "readme-heading"
+  ],
+  "Major Georgian ISP ASNs": [
+   "readme-heading"
+  ],
+  "AS16010, AS28751": [
+   "readme-table"
+  ],
+  "Useful Shodan/Censys Queries for Georgia": [
+   "readme-heading"
+  ],
+  "50.17 Education & Academic Databases": [
+   "readme-heading"
+  ],
+  "Education Portals": [
+   "readme-heading"
+  ],
+  "Universities (Major)": [
+   "readme-heading"
+  ],
+  "Academic Search": [
+   "readme-heading"
+  ],
+  "50.18 Health & Medical Databases": [
+   "readme-heading"
+  ],
+  "Health Authorities": [
+   "readme-heading"
+  ],
+  "Medical OSINT": [
+   "readme-heading"
+  ],
+  "Disease incidence by region, mortality data, vaccination rates": [
+   "readme-table"
+  ],
+  "Licensed hospitals and clinics with addresses and specializations": [
+   "readme-table"
+  ],
+  "Licensed pharmacies across Georgia": [
+   "readme-table"
+  ],
+  "Medical professional licensing (through Ministry of Health)": [
+   "readme-table"
+  ],
+  "50.19 NGO & Civil Society & Watchdogs": [
+   "readme-heading"
+  ],
+  "Key Georgian NGOs (OSINT Resources)": [
+   "readme-heading"
+  ],
+  "50.20 Fact-Checking & Disinformation Tracking": [
+   "readme-heading"
+  ],
+  "Fact-Checking Organizations": [
+   "readme-heading"
+  ],
+  "Disinformation Monitoring": [
+   "readme-heading"
+  ],
+  "50.21 Archives & Historical Databases": [
+   "readme-heading"
+  ],
+  "National Archives & Libraries": [
+   "readme-heading"
+  ],
+  "Historical & Cultural Databases": [
+   "readme-heading"
+  ],
+  "Archival OSINT Tips": [
+   "readme-heading"
+  ],
+  "Wayback Machine queries for Georgian sites:": [
+   "readme-heading"
+  ],
+  "50.22 Auctions & Seized Property": [
+   "readme-heading"
+  ],
+  "Government Auction Platforms": [
+   "readme-heading"
+  ],
+  "What You Can Find in Auction Data": [
+   "readme-heading"
+  ],
+  "OSINT value: Shows who lost property and why (debt, crime, tax evasion)": [
+   "readme-heading"
+  ],
+  "50.23 Job Markets & Classifieds": [
+   "readme-heading"
+  ],
+  "Job Portals": [
+   "readme-heading"
+  ],
+  "Classifieds (Multi-Category)": [
+   "readme-heading"
+  ],
+  "OSINT Value of Classifieds": [
+   "readme-heading"
+  ],
+  "Georgian classifieds often reveal:": [
+   "readme-heading"
+  ],
+  "50.24 Asset Declarations & Anti-Corruption": [
+   "readme-heading"
+  ],
+  "Public Official Asset Declarations": [
+   "readme-heading"
+  ],
+  "What's in Asset Declarations": [
+   "readme-heading"
+  ],
+  "Georgian public officials must declare annually:": [
+   "readme-heading"
+  ],
+  "Available for: MPs, ministers, judges, prosecutors, mayors, high-ranking": [
+   "readme-heading"
+  ],
+  "50.25 Georgian Wordlists & Password Tools": [
+   "readme-heading"
+  ],
+  "Georgian Language Wordlists": [
+   "readme-heading"
+  ],
+  "11.9 MB dictionary of Georgian words and common passwords": [
+   "readme-table"
+  ],
+  "Python script for generating custom Georgian wordlists from rules": [
+   "readme-table"
+  ],
+  "Common keyboard patterns in Georgian layout": [
+   "readme-table"
+  ],
+  "First name + last name + year patterns common in Georgia": [
+   "readme-table"
+  ],
+  "Common Georgian Password Patterns": [
+   "readme-heading"
+  ],
+  "Most common Georgian password structures:": [
+   "readme-heading"
+  ],
+  "Password cracking tools:": [
+   "readme-heading"
+  ],
+  "Generating Georgian Wordlists": [
+   "readme-heading"
+  ],
+  "Using make_wordlist.py (from uploaded tools)": [
+   "readme-heading"
+  ],
+  "Using crunch for Georgian patterns": [
+   "readme-heading"
+  ],
+  "Combining Georgian names with years": [
+   "readme-heading"
+  ],
+  "50.26 Telegram OSINT for Georgia": [
+   "readme-heading"
+  ],
+  "Georgian News & Political Channels": [
+   "readme-heading"
+  ],
+  "Search \"Georgia politics\"": [
+   "readme-table"
+  ],
+  "OSINT Telegram Bots (Work with Georgian Data)": [
+   "readme-heading"
+  ],
+  "Russian-Language OSINT Channels (Relevant to Georgia)": [
+   "readme-heading"
+  ],
+  "Telegram OSINT Techniques for Georgia": [
+   "readme-heading"
+  ],
+  "50.27 Investigation Frameworks & Communities": [
+   "readme-heading"
+  ],
+  "OSINT Frameworks with Georgian Coverage": [
+   "readme-heading"
+  ],
+  "Investigative Communities": [
+   "readme-heading"
+  ],
+  "ICIJ Databases (Georgian Entries)": [
+   "readme-heading"
+  ],
+  "50.28 Google Dorking for Georgia": [
+   "readme-heading"
+  ],
+  "Government & Official Sites": [
+   "readme-heading"
+  ],
+  "Personal Information Discovery": [
+   "readme-heading"
+  ],
+  "Business & Corporate Intelligence": [
+   "readme-heading"
+  ],
+  "Credential & Sensitive Data Discovery": [
+   "readme-heading"
+  ],
+  "Camera & IoT Discovery": [
+   "readme-heading"
+  ],
+  "Advanced Combinations": [
+   "readme-heading"
+  ],
+  "Find exposed databases": [
+   "readme-heading"
+  ],
+  "Find configuration files": [
+   "readme-heading"
+  ],
+  "Find exposed directories": [
+   "readme-heading"
+  ],
+  "Find email lists": [
+   "readme-heading"
+  ],
+  "Find Georgian government reports with data": [
+   "readme-heading"
+  ],
+  "Appendix A: Georgian Alphabet Quick Reference": [
+   "readme-heading"
+  ],
+  "Georgian script (Mkhedruli) -- 33 letters:": [
+   "readme-heading"
+  ],
+  "Useful for searching Georgian names in Latin script when researching": [
+   "readme-heading"
+  ],
+  "Appendix B: OSINT Investigation Workflow for Georgia": [
+   "readme-heading"
+  ],
+  "STEP 2: GOVERNMENT DATABASES": [
+   "readme-heading"
+  ],
+  "STEP 3: SOCIAL MEDIA & ONLINE PRESENCE": [
+   "readme-heading"
+  ],
+  "STEP 5: BREACH & LEAK DATA": [
+   "readme-heading"
+  ],
+  "STEP 6: PHONE OSINT": [
+   "readme-heading"
+  ],
+  "Appendix C: Key URLs Quick Reference": [
+   "readme-heading"
+  ],
+  "🤝 Contributing & Issues": [
+   "readme-heading"
+  ],
+  "⚖️ Legal Disclaimer": [
+   "readme-heading"
+  ],
+  "Unfiltered flight tracking data": [
+   "tools.json"
+  ],
+  "Clearnet search engine for dark web": [
+   "tools.json"
+  ],
+  "Wi-Fi adapters known to support monitor/inject mode (AWUS036ACH etc.)": [
+   "tools.json"
+  ],
+  "Self-hosted cloud VPN — sets up WireGuard/IPsec automatically": [
+   "tools.json"
+  ],
+  "Open threat exchange platform": [
+   "tools.json"
+  ],
+  "In-depth DNS enumeration and network mapping": [
+   "tools.json"
+  ],
+  "Anonymize entire OS traffic through Tor": [
+   "tools.json"
+  ],
+  "Hardware tool for IoT firmware/UART/JTAG analysis": [
+   "tools.json"
+  ],
+  "Recursive internet scanner for attack surface": [
+   "tools.json"
+  ],
+  "Fast username search tool across 600+ websites": [
+   "tools.json"
+  ],
+  "Bitcoin blockchain explorer": [
+   "tools.json"
+  ],
+  "Universal blockchain explorer & search": [
+   "tools.json"
+  ],
+  "Web technology profiler": [
+   "tools.json"
+  ],
+  "Universal serial-protocol probe (I2C, SPI, UART, JTAG)": [
+   "tools.json"
+  ],
+  "Free VPN by Calyx Institute — no accounts required": [
+   "tools.json"
+  ],
+  "Blockchain analytics & investigation": [
+   "tools.json"
+  ],
+  "OSINT profiling tool with reports": [
+   "tools.json"
+  ],
+  "Dark web scraping tool": [
+   "tools.json"
+  ],
+  "Discord server discovery platform": [
+   "tools.json"
+  ],
+  "Save Discord chat history": [
+   "tools.json"
+  ],
+  "Discord user and server search engine": [
+   "tools.json"
+  ],
+  "Discord user search platform": [
+   "tools.json"
+  ],
+  "DNS enumeration and reconnaissance": [
+   "tools.json"
+  ],
+  "Domain name permutation engine for phishing detection": [
+   "tools.json"
+  ],
+  "Generate Google Dorks with AI": [
+   "tools.json"
+  ],
+  "Google dork search engine": [
+   "tools.json"
+  ],
+  "Email address reputation and risk scoring": [
+   "tools.json"
+  ],
+  "Get info linked to any email address": [
+   "tools.json"
+  ],
+  "Complete metadata extraction from images/docs": [
+   "tools.json"
+  ],
+  "Take screenshots of web pages": [
+   "tools.json"
+  ],
+  "Free VIN decoder and vehicle history": [
+   "tools.json"
+  ],
+  "The last web recon tool you'll need": [
+   "tools.json"
+  ],
+  "Automated and scalable system for firmware emulation": [
+   "tools.json"
+  ],
+  "Script for searching extracted firmware filesystems": [
+   "tools.json"
+  ],
+  "Tool for identifying/reading/writing flash chips": [
+   "tools.json"
+  ],
+  "Flight tracking and data platform": [
+   "tools.json"
+  ],
+  "Real-time flight tracking": [
+   "tools.json"
+  ],
+  "Multi-tool for pentesters and geeks — RF/RFID/NFC/IR/GPIO": [
+   "tools.json"
+  ],
+  "Asset search and analysis tool": [
+   "tools.json"
+  ],
+  "Mr. Robot-inspired hacking framework": [
+   "tools.json"
+  ],
+  "External attack surface management": [
+   "tools.json"
+  ],
+  "Investigate Google emails and documents": [
+   "tools.json"
+  ],
+  "Toolkit for building software-defined radio systems": [
+   "tools.json"
+  ],
+  "Google dorking fuzzer": [
+   "tools.json"
+  ],
+  "Exploit-DB Google dork database": [
+   "tools.json"
+  ],
+  "Fast username search tool in Go": [
+   "tools.json"
+  ],
+  "Software-defined radio receiver GUI": [
+   "tools.json"
+  ],
+  "Search code across all public GitHub repos": [
+   "tools.json"
+  ],
+  "Search exposed internet assets and malicious IPs": [
+   "tools.json"
+  ],
+  "All-in-one hacking tool (100+ categories)": [
+   "tools.json"
+  ],
+  "SDR transceiver covering 1 MHz to 6 GHz": [
+   "tools.json"
+  ],
+  "Premium offensive hardware tools": [
+   "tools.json"
+  ],
+  "CLI tool for OSINT investigations": [
+   "tools.json"
+  ],
+  "Internet asset search and discovery": [
+   "tools.json"
+  ],
+  "Find professional email addresses by domain": [
+   "tools.json"
+  ],
+  "Live cameras directory": [
+   "tools.json"
+  ],
+  "Real-time username availability checker": [
+   "tools.json"
+  ],
+  "Interactive Instagram OSINT CLI with REPL, one-shot mode, snapshots, diffs, and Maltego-ready exports": [
+   "tools.json"
+  ],
+  "Cybercrime intelligence platform": [
+   "tools.json"
+  ],
+  "Video verification toolkit (browser extension)": [
+   "tools.json"
+  ],
+  "Privacy-first VPN — open-source, audited, no email signup": [
+   "tools.json"
+  ],
+  "Free censorship circumvention tool — peer-to-peer": [
+   "tools.json"
+  ],
+  "Reverse image search with facial recognition": [
+   "tools.json"
+  ],
+  "Advanced username search across 3000+ sites with reports": [
+   "tools.json"
+  ],
+  "Visual OSINT link analysis platform": [
+   "tools.json"
+  ],
+  "Search & download confirmed malware samples": [
+   "tools.json"
+  ],
+  "Real-time ship tracking": [
+   "tools.json"
+  ],
+  "Document metadata harvester from public docs": [
+   "tools.json"
+  ],
+  "Malware Information Sharing Platform": [
+   "tools.json"
+  ],
+  "OSINT investigation tool": [
+   "tools.json"
+  ],
+  "Privacy-first VPN — no email needed, cash accepted": [
+   "tools.json"
+  ],
+  "Internet scanning and intelligence": [
+   "tools.json"
+  ],
+  "Find profiles by username on various platforms": [
+   "tools.json"
+  ],
+  "Search .onion URLs from multiple engines": [
+   "tools.json"
+  ],
+  "OSINT engine indexing exposed assets": [
+   "tools.json"
+  ],
+  "Open On-Chip Debugger — JTAG/SWD interface for embedded": [
+   "tools.json"
+  ],
+  "Free collaborative world map": [
+   "tools.json"
+  ],
+  "Industry-standard open-source VPN protocol": [
+   "tools.json"
+  ],
+  "OSINT Swiss Army Knife framework": [
+   "tools.json"
+  ],
+  "Full automated reconnaissance workflow": [
+   "tools.json"
+  ],
+  "Username research framework with multiple tools": [
+   "tools.json"
+  ],
+  "Google Jigsaw's self-hosted VPN — censorship circumvention": [
+   "tools.json"
+  ],
+  "Bitcoin transaction graph analysis": [
+   "tools.json"
+  ],
+  "Automated Google dorking tool": [
+   "tools.json"
+  ],
+  "Website vulnerability scanner": [
+   "tools.json"
+  ],
+  "Free VPN with 10GB/month and zero-log policy": [
+   "tools.json"
+  ],
+  "Best free VPN — unlimited data, no-log, open-source, Swiss privacy": [
+   "tools.json"
+  ],
+  "RFID/NFC research and exploitation hardware + software": [
+   "tools.json"
+  ],
+  "Threat intelligence enrichment": [
+   "tools.json"
+  ],
+  "Online website malware scanner": [
+   "tools.json"
+  ],
+  "Module-based web reconnaissance framework": [
+   "tools.json"
+  ],
+  "Threat intelligence platform": [
+   "tools.json"
+  ],
+  "Free VPN by Riseup collective — no accounts, no tracking": [
+   "tools.json"
+  ],
+  "Cheap ($30) SDR receiver — entry into RF": [
+   "tools.json"
+  ],
+  "Privacy-respecting metasearch engine": [
+   "tools.json"
+  ],
+  "Multi-purpose OSINT toolkit with web interface": [
+   "tools.json"
+  ],
+  "Multi-source satellite imagery access": [
+   "tools.json"
+  ],
+  "Hunt down social media accounts by username across 400+ sites": [
+   "tools.json"
+  ],
+  "Search publicly available info connected to a username": [
+   "tools.json"
+  ],
+  "IoT and device search engine": [
+   "tools.json"
+  ],
+  "Shodan scanning automation tool": [
+   "tools.json"
+  ],
+  "Semi-automatic OSINT framework in Rust": [
+   "tools.json"
+  ],
+  "Automated pentest reconnaissance scanner": [
+   "tools.json"
+  ],
+  "Username search with Russian-focused platforms": [
+   "tools.json"
+  ],
+  "API-based social media profiler for 1000+ sites": [
+   "tools.json"
+  ],
+  "Extract user info from web page source code": [
+   "tools.json"
+  ],
+  "OSINT automation platform (200+ modules)": [
+   "tools.json"
+  ],
+  "SSL/TLS server testing": [
+   "tools.json"
+  ],
+  "Free website malware scanner": [
+   "tools.json"
+  ],
+  "Telegram user & group lookup database": [
+   "tools.json"
+  ],
+  "Free people search by name/email/phone": [
+   "tools.json"
+  ],
+  "Email, subdomain & IP harvesting tool": [
+   "tools.json"
+  ],
+  "Anonymous web browsing via Tor network": [
+   "tools.json"
+  ],
+  "Global reverse phone number lookup": [
+   "tools.json"
+  ],
+  "Find secrets in git repos": [
+   "tools.json"
+  ],
+  "Open-source 2.4 GHz wireless dev platform — Bluetooth research": [
+   "tools.json"
+  ],
+  "URL & data artifact analysis tool": [
+   "tools.json"
+  ],
+  "Check username presence across dev/social/gaming sites": [
+   "tools.json"
+  ],
+  "Bash-based username finder across platforms": [
+   "tools.json"
+  ],
+  "Free AIS vessel tracking": [
+   "tools.json"
+  ],
+  "Multiple DNS investigation tools": [
+   "tools.json"
+  ],
+  "File/URL/domain malware analysis": [
+   "tools.json"
+  ],
+  "Web archive - explore website history": [
+   "tools.json"
+  ],
+  "WHOIS domain registration lookup": [
+   "tools.json"
+  ],
+  "Hak5's wireless auditing platform": [
+   "tools.json"
+  ],
+  "Wireless network mapping database": [
+   "tools.json"
+  ],
+  "Collaborative world map with annotations": [
+   "tools.json"
+  ],
+  "Generous free VPN with 10GB/month and ad blocking": [
+   "tools.json"
+  ],
+  "Modern VPN protocol — ultra-fast, minimal attack surface": [
+   "tools.json"
+  ],
+  "Pattern matching for malware research": [
+   "tools.json"
+  ],
+  "OSINT tool for email/phone/name investigations": [
+   "tools.json"
+  ],
+  "Cyberspace search engine for IoT": [
+   "tools.json"
+  ],
+  "🔌 Hardware Hacking & SDR": [
+   "hardware.sh"
+  ],
+  "Part of awesome-osint-arsenal v2.1 (Hardened Production Edition)": [
+   "hardware.sh",
+   "extras.sh"
+  ],
+  "Auto-detects: Kali / Debian / Ubuntu / Parrot / Mint / Pop!_OS /": [
+   "hardware.sh",
+   "redteam.sh",
+   "blueteam.sh",
+   "extras.sh",
+   "osint.sh",
+   "forensics.sh",
+   "labs.sh"
+  ],
+  "Best support: Kali / Debian / Ubuntu (apt-based)": [
+   "hardware.sh",
+   "redteam.sh",
+   "blueteam.sh",
+   "extras.sh",
+   "osint.sh",
+   "forensics.sh",
+   "labs.sh"
+  ],
+  "FAIL: $*": [
+   "hardware.sh",
+   "redteam.sh",
+   "blueteam.sh",
+   "extras.sh",
+   "osint.sh",
+   "termux.sh",
+   "forensics.sh",
+   "labs.sh"
+  ],
+  "Please run as root: sudo bash $0": [
+   "hardware.sh",
+   "redteam.sh",
+   "install.sh",
+   "blueteam.sh",
+   "extras.sh",
+   "osint.sh",
+   "forensics.sh",
+   "labs.sh"
+  ],
+  "See $LOGFILE for details.": [
+   "hardware.sh",
+   "redteam.sh",
+   "blueteam.sh",
+   "extras.sh",
+   "osint.sh",
+   "forensics.sh",
+   "labs.sh"
+  ],
+  "Execution Flow": [
+   "hardware.sh",
+   "extras.sh"
+  ],
+  "Firmadyne & Firmwalker Core Repositories": [
+   "hardware.sh"
+  ],
+  "Hardware Utilities & Signal Frameworks": [
+   "hardware.sh"
+  ],
+  "SDR Radio / Hardware Tooling Packages": [
+   "hardware.sh"
+  ],
+  "(Handles varying package definitions between distributions gracefully)": [
+   "hardware.sh"
+  ],
+  "Proxmark3 Source Provisioning": [
+   "hardware.sh"
+  ],
+  "Installs compiling prerequisites based on platform to prepare for firmware flashing": [
+   "hardware.sh"
+  ],
+  "Post-Install Kernel Optimization Layer": [
+   "hardware.sh"
+  ],
+  "Fix RTL-SDR DVB-T Kernel Conflict": [
+   "hardware.sh"
+  ],
+  "Prevents the native Linux kernel from claiming the SDR as a TV Tuner card": [
+   "hardware.sh"
+  ],
+  "Trigger and sync system hardware management layer": [
+   "hardware.sh"
+  ],
+  "⚔️  Red team / offensive": [
+   "redteam.sh"
+  ],
+  "Awesome OSINT Arsenal — Master Orchestrator": [
+   "install.sh"
+  ],
+  "Part of awesome-osint-arsenal v2.1 (Unified Production Edition)": [
+   "install.sh"
+  ],
+  "Runs each category installer sequentially with error handling.": [
+   "install.sh"
+  ],
+  "Best support: Kali / Debian / Ubuntu / Parrot.": [
+   "install.sh"
+  ],
+  "Maintain color scheme and logging alignment with sub-modules": [
+   "install.sh"
+  ],
+  "Core Environment Guard": [
+   "install.sh"
+  ],
+  "Switch to the script's execution directory to safely resolve relative script paths": [
+   "install.sh"
+  ],
+  "Target Sub-modules": [
+   "install.sh"
+  ],
+  "Initialize/Wipe Master Error Log": [
+   "install.sh"
+  ],
+  "Operational Metrics Tracker": [
+   "install.sh"
+  ],
+  "Defensive File Verification Hook": [
+   "install.sh"
+  ],
+  "ORCHESTRATOR ERROR: File not found: $inst": [
+   "install.sh"
+  ],
+  "Explicitly grant executable permissions to prevent permission denial traps": [
+   "install.sh"
+  ],
+  "Execute subshell layer. Exporting LOGFILE ensures sub-modules write to the same path.": [
+   "install.sh"
+  ],
+  "ORCHESTRATOR ERROR: Sub-module execution failure status returned from: $inst": [
+   "install.sh"
+  ],
+  "Calculate execution duration metrics": [
+   "install.sh"
+  ],
+  "Master Compilation Dashboard": [
+   "install.sh"
+  ],
+  "Ensure all complementary module scripts are checked out into this workspace directory.": [
+   "install.sh"
+  ],
+  "🛡️  Blue team / defensive + threat intel": [
+   "blueteam.sh"
+  ],
+  "🔧 Misc / catch-all": [
+   "extras.sh"
+  ],
+  "Appending @latest ensures compliance with modern Go package management installation protocols": [
+   "extras.sh"
+  ],
+  "Dynamically append Go structural binaries paths into active execution scope": [
+   "extras.sh"
+  ],
+  "1. EyeWitness (Patched to automatically invoke internal dependency setup toolchain)": [
+   "extras.sh"
+  ],
+  "2. OpenCV Headless (Pivoted to prevent display dependency crashes on servers or bare CLI nodes)": [
+   "extras.sh"
+  ],
+  "3. Modern TruffleHog (Pivoted from the deprecated Python pip v2 build to modern v3 Go engine)": [
+   "extras.sh"
+  ],
+  "🔍 OSINT toolkit": [
+   "osint.sh"
+  ],
+  "Awesome OSINT Arsenal — Termux (Android) installer": [
+   "termux.sh"
+  ],
+  "Optimized for ARM64/ARM environments and compilation requirements.": [
+   "termux.sh"
+  ],
+  "Note: Termux occasionally requires --break-system-packages depending on python environment state": [
+   "termux.sh"
+  ],
+  "build-essential, clang, python-dev are REQUIRED to build wheel packages natively on Android": [
+   "termux.sh"
+  ],
+  "Review comprehensive build errors here: $LOGFILE": [
+   "termux.sh"
+  ],
+  "Tools mapped out to: $HOME/osint-arsenal/": [
+   "termux.sh"
+  ],
+  "🛡️ 🔧 Blue Team, Threat Intel & Misc Lab Provisioner": [
+   "forensics.sh"
+  ],
+  "Part of awesome-osint-arsenal v3.4 (Unified Production Edition)": [
+   "forensics.sh"
+  ],
+  "Modern Go requires an explicit version suffix tag (like @latest) to compile safely out of module scope": [
+   "forensics.sh"
+  ],
+  "Ensure the script path variables check compiled root/user Go target binaries immediately": [
+   "forensics.sh"
+  ],
+  "Main Engine Execution": [
+   "forensics.sh"
+  ],
+  "1. EyeWitness Custom Logic (Auto-executes internal dependency compiler script)": [
+   "forensics.sh"
+  ],
+  "2. OpenCV Headless (Prevents OS runtime display crashes on headless servers/CLI setups)": [
+   "forensics.sh"
+  ],
+  "3. Modern Go-Engine TruffleHog (Pivoted from deprecated Python v2 pip package to v3 Go release)": [
+   "forensics.sh"
+  ],
+  "🎓 Training / vulnerable apps": [
+   "labs.sh"
+  ]
+ }
+}

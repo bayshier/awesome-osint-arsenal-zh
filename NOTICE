@@ -1,0 +1,12 @@
+awesome-osint-arsenal 中文版
+Copyright 2026 Easin
+
+本仓库地址：https://github.com/bayshier/awesome-osint-arsenal-zh
+
+本仓库为 rawfilejson/awesome-osint-arsenal（MIT License）的中文翻译版：
+https://github.com/rawfilejson/awesome-osint-arsenal
+原项目版权：Copyright (c) rawfilejson
+
+翻译范围：README 与各安装脚本中的说明文字、tools.json 的工具描述；
+工具名称、链接、安装命令、代码逻辑保持原样。原项目 LICENSE 随本
+仓库保留。
