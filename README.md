@@ -22,8 +22,6 @@
 >
 > *互联网上最全的 OSINT 与安全工具箱——每个工具都带安装说明或经过验证的链接。*
 
-<a href="https://www.buymeacoffee.com/rawfilejson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
 <br/>
 
 ### ⚡ 一条命令装齐全部
@@ -83,7 +81,6 @@ bash termux.sh            # 📱 Android (Termux subset, no sudo needed)
 > - ⭐ **给仓库点 Star**（星越多，越多人看到并参与贡献）
 > - 🐛 **发现死链？** 提个 issue，一分钟的事
 > - 🧩 **想添加工具？** 先过一眼 [CONTRIBUTING.md](CONTRIBUTING.md)，免得 PR 被关
-> - ☕ [**请作者喝杯咖啡**](https://www.buymeacoffee.com/rawfilejson) 让周末维护能持续下去
 > - 📢 **转发分享**——推特、Discord，安全圈出没的地方都行
 >
 > 发现问题：**别光抱怨——提 issue 或 PR，这份清单才能一直有用。**
@@ -322,8 +319,6 @@ source ~/.bashrc
 | 🔬 Forensics | 🔌 硬件 | 🎓 Training | 🎯 Bug Bounty | 📂 Total Categories |
 |:-:|:-:|:-:|:-:|:-:|
 | **16+** | **16+** | **21+** | **12+** | **50** |
-
-<a href="https://www.buymeacoffee.com/rawfilejson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
 
@@ -1644,10 +1639,6 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 
 
 <div align="center">
-
-☕ *喜欢以上内容？42-50 章刚刚更新——支持一下下一批：*
-
-<a href="https://www.buymeacoffee.com/rawfilejson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 </div>
 
@@ -3408,7 +3399,6 @@ STEP 1: IDENTIFY THE TARGET
 ---
 
 
-
 </details>
 
 ---
@@ -3455,8 +3445,6 @@ STEP 1: IDENTIFY THE TARGET
 *为 OSINT 与安全研究社区而建。*
 
 *知识就是力量，请负责任地使用。*
-
-<a href="https://www.buymeacoffee.com/rawfilejson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <br/>
 
