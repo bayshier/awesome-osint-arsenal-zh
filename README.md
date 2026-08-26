@@ -1874,7 +1874,7 @@ sudo git clone https://github.com/RedSiege/EyeWitness
 
 ## 49. ✨ 补充工具（精选新增）
 
-> Tools added in v2.x — modern recon, archive lookups, niche services, research-grade pivots.
+> v2.x 新增工具——现代侦察、档案查询、小众服务与研究级拓展分析。
 >
 > **实用建议：** 本节每次发布都会更新——用老工具前先来翻一翻。
 
