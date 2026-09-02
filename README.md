@@ -1013,6 +1013,7 @@ bash zphisher.sh
 | 工具 | 说明 | 链接 |
 |------|-------------|------|
 | **OpenCorporates** | 全球公司数据库 | [opencorporates.com](https://opencorporates.com/) |
+| **公司记录** | 149 个司法管辖区的公司登记查询，购买时实时取自官方登记机构 | [records.knowyourcustomer.com](https://records.knowyourcustomer.com/zh-hans/) |
 | **ICIJ Offshore Leaks** | 巴拿马/潘多拉/天堂文件 | [offshoreleaks.icij.org](https://offshoreleaks.icij.org/) |
 | **SEC EDGAR** | 美国公司档案 | [sec.gov/edgar](https://sec.gov/edgar) |
 | **Companies House (UK)** | 英国公司注册查询 | [beta.companieshouse.gov.uk](https://beta.companieshouse.gov.uk/) |
