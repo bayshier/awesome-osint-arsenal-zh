@@ -15,19 +15,23 @@
 [![Version](https://img.shields.io/badge/Version-2.1-00CC66?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
 [![Updated](https://img.shields.io/badge/Updated-2026--05--10-FF8800?style=for-the-badge&logoColor=white)](https://github.com/rawfilejson/awesome-osint-arsenal)
 [![Stars](https://img.shields.io/github/stars/rawfilejson/awesome-osint-arsenal?style=for-the-badge&color=gold&logo=github)](https://github.com/rawfilejson/awesome-osint-arsenal/stargazers)
+[![中文版 Stars](https://img.shields.io/github/stars/bayshier/awesome-osint-arsenal-zh?style=for-the-badge&color=orange&logo=github)](https://github.com/bayshier/awesome-osint-arsenal-zh/stargazers)
+[![中文版同步](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E7%89%88%E5%90%8C%E6%AD%A5-2026--08--26-9370DB?style=for-the-badge)](https://github.com/bayshier/awesome-osint-arsenal-zh/commits)
 
 <br/>
 
 > **753+ tools · 50 categories · Multi-distro installers · Georgian OSINT · Termux support**
 >
 > *互联网上最全的 OSINT 与安全工具箱——每个工具都带安装说明或经过验证的链接。*
+>
+> 🌐 **English**: This is the Simplified Chinese edition of [awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) (MIT) — 753+ OSINT & security tools in 50 categories with one-command installers. Tool names and usage remain in English.
 
 <br/>
 
 ### ⚡ 一条命令装齐全部
 
 ```bash
-git clone https://github.com/rawfilejson/awesome-osint-arsenal && cd awesome-osint-arsenal && sudo bash install.sh
+git clone https://github.com/bayshier/awesome-osint-arsenal-zh && cd awesome-osint-arsenal-zh && sudo bash install.sh
 ```
 
 ### 🎯 或者按需挑选
@@ -246,11 +250,11 @@ bash termux.sh            # 📱 Android (Termux subset, no sudo needed)
 ### 快速安装——Kali / Debian / Ubuntu / Parrot
 
 ```bash
-git clone https://github.com/rawfilejson/awesome-osint-arsenal
+git clone https://github.com/bayshier/awesome-osint-arsenal-zh
 ```
 
 ```bash
-cd awesome-osint-arsenal
+cd awesome-osint-arsenal-zh
 ```
 
 ```bash
@@ -1531,11 +1535,11 @@ python3 cupp.py -i
 
 ```bash
 # 方式一：直接用本仓库（一条命令）
-curl -sL https://raw.githubusercontent.com/rawfilejson/awesome-osint-arsenal/main/install.sh | sudo bash
+curl -sL https://raw.githubusercontent.com/bayshier/awesome-osint-arsenal-zh/main/install.sh | sudo bash
 
 # 方式二：先克隆（推荐——先审查再运行）
-git clone https://github.com/rawfilejson/awesome-osint-arsenal.git
-cd awesome-osint-arsenal
+git clone https://github.com/bayshier/awesome-osint-arsenal-zh.git
+cd awesome-osint-arsenal-zh
 sudo bash install.sh
 ```
 
